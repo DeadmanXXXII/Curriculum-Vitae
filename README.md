@@ -1,5 +1,4 @@
 # Curriculum-Vitae
-Markdown CV
 ```markdown
 # Blu Corbel Curriculum Vitae
 
