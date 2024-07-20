@@ -10,11 +10,11 @@
 **Canva Interactive CV:** [View Here](https://www.canva.com/design/DAF_HoVvIJk/PuoOIXPYxlk3CNCCDNEhFw/view?utm_content=DAF_HoVvIJk&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
 
 **Professional Reference:**  
-Wesley Gerrard - [wezg.co.uk](https://wezg.co.uk)
+Wesley Gerrard - [wezg.co.uk](https://fourfourcyber.com)
 
 ## Objective and Personal Statement
 
-A dynamic and certified Information, Network, and Cyber Security Lead with extensive experience in offensive security roles. Skilled in infrastructure and application vulnerability assessments, vulnerability remediation, and advanced proficiency in a variety of security tools and methodologies. Adept at leading offshore teams with exceptional communication abilities and a passion for delivering superior security solutions. Eager to secure a more challenging role in an Architecture Matrix.
+A dynamic and certified Information, Network, and Cyber Security Lead or Team member with extensive experience in offensive security roles. Skilled in infrastructure and application vulnerability assessments, vulnerability remediation, and advanced proficiency in a variety of security tools and methodologies. Adept at leading offshore teams with exceptional communication abilities and a passion for delivering superior security solutions. Eager to secure a more challenging role in an Architecture Matrix.
 
 ## Key Qualifications
 
