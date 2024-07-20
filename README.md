@@ -26,8 +26,6 @@ A dynamic and certified Information, Network, and Cyber Security Lead with exten
 - Certified Google Cloud Platform (GCP) Architect
 - Certified in API Penetration Testing
 - Certified in Networking CCNA
-- Certified in Application Security (AppSec)
-- Certified in IoT Hacking
 - Certified in API Attached Cars and Fleets
 - Certified Associate in Project Management (CAPM)
 - Blockchain Developer
