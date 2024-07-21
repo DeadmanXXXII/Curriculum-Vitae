@@ -9,7 +9,7 @@
 **Canva Interactive CV:** [View Here](https://www.canva.com/design/DAF_HoVvIJk/PuoOIXPYxlk3CNCCDNEhFw/view?utm_content=DAF_HoVvIJk&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
 
 **Professional Reference:**  
-Wesley Gerrard - [wezg.co.uk](https://fourfourcyber.com)
+Wesley Gerrard - [FourFourCyber](https://fourfourcyber.com)
 
 ## Objective and Personal Statement
 
