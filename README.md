@@ -20,7 +20,7 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 - Certified Information Systems Security Professional (CISSP)
 - Certified Ethical Hacker (C|EH)
 - Certified in Cybersecurity (C|C)
-- Certified AWS Data Recovery Specialist
+- Certified AWS Information Recovery Specialist
 - Certified Azure Network Ninja
 - Certified Google Cloud Platform (GCP) Architect
 - Certified in API Penetration Testing
