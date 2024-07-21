@@ -40,6 +40,7 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 - Certified in firewall administration and management.
 - Certified Azure DevOps Pipeline.
 - Advanced skills in full and section audits, demonstrating exceptional attention to detail.
+- Highly skilled with cryptology
 
 ## Professional Experience
 
