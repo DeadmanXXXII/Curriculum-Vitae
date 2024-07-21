@@ -28,7 +28,7 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 - Certified in API Attached Cars and Fleets
 - Blockchain Developer
 - **Data Scientist:** R, Rust, C, Python, SQL
-- **Certified in Advanced Proficiency Languages:** Go, Golang, Serpent, C++, MPLS, Ruby, Full Stack Development
+- **Certified to Advanced Proficiency in Languages:** Go, Golang, Serpent, C++, MPLS, Ruby, Full Stack Development
 - NVQ in Security Managemaent
 - Certified Associate in Project Management (CAPM)
 
