@@ -61,9 +61,9 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 
 - **Certified to Advanced Proficiency in Languages:** Go, Golang, Serpent, C++, MPLS, Ruby, Full Stack Development
 
-![C++](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/blob/main/Advanced_C%2B%2B.png)
+![C++](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Advanced_C%2B%2B.png)
 
-![5DCC](https://raw.githubusercontent.com/DeadmanXXXII/)
+![5DCC](https://raw.githubusercontent.com/DeadmanXXXII//Curriculum-Vitae/main/5_Day_Coding_Challenge.png)
 
 - NVQ in Security Managemaent
 - Certified Associate in Project Management (CAPM)
