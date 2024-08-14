@@ -87,7 +87,6 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ![ISC2 badge](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/ISC2_Candidate.png)
 
 - Qualified Blockchain developer
-- NVQ in Security Managemaent
 - Certified Associate in Project Management (CAPM)
 
 ## Technical Skills
@@ -134,10 +133,10 @@ Ready to relocate to anywhere.
 - NVQ in Security Managemaent
 
 - Certificate of service
-![COS](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155714.png)
+![COS](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155710.png)
 
 - Back
-![COS](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155710.png)
+![COS](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155714.png)
 
 - Search Trained
 ![All arms search course](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Dark_web_operations.png)
