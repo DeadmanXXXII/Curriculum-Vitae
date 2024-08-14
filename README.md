@@ -137,7 +137,10 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 
 ### Platform Badges and paths
 
-**Microsoft Learn:**  [SC-100](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/HYEMHDD8?sharingId=BB30E488E85BEBA1)
+**Microsoft Learn:**
+
+  [SC-100](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/CN5C5DP9?sharingId=BB30E488E85BEBA1)
+  [SC-100](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/HYEMHDD8?sharingId=BB30E488E85BEBA1)
 
 [C#](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/UW5JPQB3?sharingId=BB30E488E85BEBA1)
 
