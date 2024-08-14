@@ -51,13 +51,20 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ![SRWE](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_SRWE.png)
 ![ENSA](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_ENSA.png)
 
-- **Data Scientist:** R, Rust, C, Python, SQL
-![Data Scientist R](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Data%20Science%20in%20R.png)
-
 - MitreAtt&ck
 ![MitreAtt&ck](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Mitre_Att%26ck.png)
 
+- **Data Scientist:** R, Rust, C, Python, SQL
+![Data Scientist R](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Data%20Science%20in%20R.png)
+
+![Data Scientist SQL](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Advanced_SQL.png)
+
 - **Certified to Advanced Proficiency in Languages:** Go, Golang, Serpent, C++, MPLS, Ruby, Full Stack Development
+
+![C++](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/blob/main/Advanced_C%2B%2B.png)
+
+![5DCC](https://raw.githubusercontent.com/DeadmanXXXII/)
+
 - NVQ in Security Managemaent
 - Certified Associate in Project Management (CAPM)
 
