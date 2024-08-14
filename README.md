@@ -19,9 +19,13 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 
 - Certified Information Systems Security Professional (CISSP)
 ![CISSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CISSP.png)
+
 - Certified Ethical Hacker (C|EH)
+![C|EH](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Ethical_Hacking.png)
 
 - Certified in Cybersecurity (C|C)
+![Usage](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/C%7CC.png)
+
 - Certified AWS Information Recovery Specialist
 - Certified Azure Network Ninja
 - Certified Google Cloud Platform (GCP) Architect
