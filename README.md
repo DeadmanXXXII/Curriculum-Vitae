@@ -51,9 +51,8 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ![SRWE](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_SRWE.png)
 ![ENSA](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_ENSA.png)
 
-
-- Blockchain Developer
 - **Data Scientist:** R, Rust, C, Python, SQL
+![Data Scientist R](https://raw.githubusercontent.com/DeadmanXXXII/)
 - **Certified to Advanced Proficiency in Languages:** Go, Golang, Serpent, C++, MPLS, Ruby, Full Stack Development
 - NVQ in Security Managemaent
 - Certified Associate in Project Management (CAPM)
