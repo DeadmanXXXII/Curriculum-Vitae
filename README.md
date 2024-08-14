@@ -7,7 +7,6 @@
 **GitHub:** [DeadmanXXXII](https://github.com/DeadmanXXXII)  
 **Website:** [The Mad Hatter’s Playground](https://the-mad-hatters-playground.com)  
 **Canva Interactive CV:** [Canva share link](https://www.canva.com/design/DAF_HoVvIJk/PuoOIXPYxlk3CNCCDNEhFw/view?utm_content=DAF_HoVvIJk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
 **Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
 
 **Professional Reference:**  
