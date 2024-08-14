@@ -139,6 +139,10 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 
 ### Platform Badges and paths
 
+**Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
+
+**Microsoft Learn:**  [Badges](https://learn.microsoft.com/en-us/users/achievements#badges-section)
+
 - HTB: Starting point, CREST penetration testing
 - HTB academy:
 Loads
