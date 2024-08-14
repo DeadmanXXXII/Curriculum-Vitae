@@ -183,7 +183,7 @@ DeadmanXXXII
 ## Certificates, Badges and Medals
 
 - Herric 13 tour of duty medal.
-- War veterans tir pin.
+- War veterans tie pin.
 - NVQ in Security Managemaent.
 
 - Certificate of service
