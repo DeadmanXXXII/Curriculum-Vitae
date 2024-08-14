@@ -137,11 +137,9 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 
 ### Platform Badges and paths
 
-**Microsoft Learn:**  [Badges](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/HYEMHDD8?sharingId=BB30E488E85BEBA1)
+**Microsoft Learn:**  [SC-100](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/HYEMHDD8?sharingId=BB30E488E85BEBA1)
 
-[Badges]()
-
-**Microsoft Learn:**  [Badges](https://learn.microsoft.com/en-us/users/me/achievements#badges-section)
+[C#](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/UW5JPQB3?sharingId=BB30E488E85BEBA1)
 
 - HTB: Starting point, CREST penetration testing
 - HTB academy:
@@ -154,7 +152,8 @@ Loads
 - vAPI: Complete 
 - Clickjacked: Complete
 - Ransomware Defense: Complete
-- BHIS Red Team boot camp: Complete (ARTO, @CyberBankSA and MACOSX machines)
+- BHIS Red Team boot camp: Complete (ARTO, @CyberBankSA and MACOSX machines
+- Fortinet (underway)
 
 ### Projects
 
