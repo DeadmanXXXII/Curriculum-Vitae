@@ -14,8 +14,6 @@
 
 **Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
 
-**Microsoft Learn:**  [Badges](https://learn.microsoft.com/en-us/users/me/achievements#badges-section)
-
 
 **Professional Reference:**  
 Wesley Gerrard - [FourFourCyber](https://fourfourcyber.com)
@@ -139,9 +137,11 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 
 ### Platform Badges and paths
 
-**Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
+**Microsoft Learn:**  [Badges](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/HYEMHDD8?sharingId=BB30E488E85BEBA1)
 
-**Microsoft Learn:**  [Badges](https://learn.microsoft.com/en-us/users/achievements#badges-section)
+[Badges]()
+
+**Microsoft Learn:**  [Badges](https://learn.microsoft.com/en-us/users/me/achievements#badges-section)
 
 - HTB: Starting point, CREST penetration testing
 - HTB academy:
