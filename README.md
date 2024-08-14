@@ -33,7 +33,7 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ![C|C](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/C%7CC.png)
 
 - Cybersecurity Analyst
-![C|C](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/C%7CC.png)
+![C3SA](https://raw.githubusercontent.com/DeadmanXXXII/https://github.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155824.png)
 
 - Certified AWS Information Recovery Specialist
 ![AWS IR and Data](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/AWS_information_recovery_badge.png)
