@@ -23,6 +23,10 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 - Certified Ethical Hacker (C|EH)
 ![C|EH](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Ethical_Hacking.png)
 
+- Certified Web Application Security Tester (PWST)
+![PWST](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Web_Application_Security.png)
+
+
 - Certified in Cybersecurity (C|C)
 ![Usage](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/C%7CC.png)
 
@@ -37,9 +41,9 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 
 - Certified in API Penetration Testing
 - Certified in API Attached Cars and Fleets
-![API Penetration Testing](https://raw.githubusercontent.com/DeadmanXXXII/
+![API Penetration Testing](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/API_Sec_Penetration_Testing.png
 )
-![Attached cars and fleets](https://raw.githubusercontent.com/DeadmanXXXII/)
+![Attached cars and fleets](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/API_Sec_Attached_Cars_and_Fleets.png)
 
 - Certified in Networking CCNA
 - Blockchain Developer
