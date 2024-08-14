@@ -18,7 +18,9 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ## Key Qualifications
 
 - Certified Information Systems Security Professional (CISSP)
+![CISSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CISSP.png)
 - Certified Ethical Hacker (C|EH)
+
 - Certified in Cybersecurity (C|C)
 - Certified AWS Information Recovery Specialist
 - Certified Azure Network Ninja
