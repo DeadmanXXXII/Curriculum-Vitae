@@ -6,7 +6,8 @@
 **LinkedIn:** [Blu Corbel](https://www.linkedin.com/in/blu-corbel-bb5700265)  
 **GitHub:** [DeadmanXXXII](https://github.com/DeadmanXXXII)  
 **Website:** [The Mad Hatter’s Playground](https://the-mad-hatters-playground.com)  
-**Canva Interactive CV:** [View Here](https://www.canva.com/design/DAF_HoVvIJk/PuoOIXPYxlk3CNCCDNEhFw/view?utm_content=DAF_HoVvIJk&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
+**Canva Interactive CV:** [View Here](https://www.canva.com/design/DAF_HoVvIJk/PuoOIXPYxlk3CNCCDNEhFw/view?utm_content=DAF_HoVvIJk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+**Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
 
 **Professional Reference:**  
 Wesley Gerrard - [FourFourCyber](https://fourfourcyber.com)
@@ -127,8 +128,19 @@ Ready to relocate to anywhere.
 
 ---
 
-## Certificates and Badges
+# Military
+## Certificates, Badges and Medals
 
-### [Canva Interactive CV with Live Links](https://www.canva.com/design/DAF_HoVvIJk/PuoOIXPYxlk3CNCCDNEhFw/view?utm_content=DAF_HoVvIJk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- NVQ in Security Managemaent
 
-### [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
+- Certificate of service
+![COS](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155714.png)
+
+- Back
+![COS](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155710.png)
+
+- Search Trained
+![All arms search course](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Dark_web_operations.png)
+
+
+
