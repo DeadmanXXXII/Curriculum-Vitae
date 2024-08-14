@@ -48,7 +48,7 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ![SIEM and Logging](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Google_SIEM.png)
 
 - Certified In Generative AI
-![Generative AI](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/blob/main/Google_generative_AI.png)
+![Generative AI](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Google_generative_AI.png)
 
 - Certified in API Penetration Testing
 ![API Penetration Testing](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/API_Sec_Penetration_Testing.png)
