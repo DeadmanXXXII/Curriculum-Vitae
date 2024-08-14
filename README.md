@@ -26,6 +26,8 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 - Certified Web Application Security Tester (PWST)
 ![PWST](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Web_Application_Security.png)
 
+- Kubernautes Helmsman
+![Kubernautes](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Kubernautes_Badges.png)
 
 - Certified in Cybersecurity (C|C)
 ![Usage](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/C%7CC.png)
@@ -46,15 +48,18 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ![Generative AI](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/blob/main/Google_generative_AI.png)
 
 - Certified in API Penetration Testing
-- Certified in API Attached Cars and Fleets
-![API Penetration Testing](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/API_Sec_Penetration_Testing.png
-)
+![API Penetration Testing](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/API_Sec_Penetration_Testing.png)
+
+- Certified in API Attached Cars and Fleets Testing
 ![Attached cars and fleets](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/API_Sec_Attached_Cars_and_Fleets.png)
 
 - Certified in Networking CCNA
 ![Fundamentals](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_Fundamentals.png)
+
 ![ITN](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_ITN.png)
+
 ![SRWE](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_SRWE.png)
+
 ![ENSA](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_ENSA.png)
 
 - MitreAtt&ck
@@ -72,7 +77,10 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ![5DCC](https://raw.githubusercontent.com/DeadmanXXXII//Curriculum-Vitae/main/5_Day_Coding_Challenge.png)
 
 - Dark Web Operations
-![DWO](https://raw.githubusercontent.com/DeadmanXXXII/)
+![DWO](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Dark_web_operations.png)
+
+- ISC2 Candidate Badge
+![ISC2 badge](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/ISC2_Candidate.png)
 
 - Qualified Blockchain developer
 - NVQ in Security Managemaent
