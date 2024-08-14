@@ -141,10 +141,17 @@ Ready to relocate to anywhere.
 - Search Trained
 ![All arms search course](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155705.png)
 
-# Bug bounty programs
+### Bug bounty programs
 
-Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community
+Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockchair, ZBD, HackerOne
 
+
+### Projects
+
+#H4ck3d1t./exe
+@TheMadHattersPlayground.com
+CyberShorts2024
+DeadmanXXXII
 
 # Seminars
 - CWL
