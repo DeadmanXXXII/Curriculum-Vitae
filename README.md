@@ -52,10 +52,10 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ![ENSA](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_ENSA.png)
 
 - **Data Scientist:** R, Rust, C, Python, SQL
-![Data Scientist R](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/blob/main/Data%20Science%20in%20R.png)
+![Data Scientist R](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Data%20Science%20in%20R.png)
 
 - MitreAtt&ck
-![MitreAtt&ck](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/blob/main/Mitre_Att%26ck.png)
+![MitreAtt&ck](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Mitre_Att%26ck.png)
 
 - **Certified to Advanced Proficiency in Languages:** Go, Golang, Serpent, C++, MPLS, Ruby, Full Stack Development
 - NVQ in Security Managemaent
