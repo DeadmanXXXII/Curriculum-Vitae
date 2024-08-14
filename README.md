@@ -5,10 +5,16 @@
 **Email:** themadhattersplayground@gmail.com  
 
 **LinkedIn:** [Blu Corbel](https://www.linkedin.com/in/blu-corbel-bb5700265)  
+
 **GitHub:** [DeadmanXXXII](https://github.com/DeadmanXXXII)  
 **Website:** [The Mad Hatter’s Playground](https://the-mad-hatters-playground.com)  
+
 **Canva Interactive CV:** [Canva share link](https://www.canva.com/design/DAF_HoVvIJk/PuoOIXPYxlk3CNCCDNEhFw/view?utm_content=DAF_HoVvIJk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 **Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
+
+** Microsoft Learn:**[Badges](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/CN5C5DP9?sharingId=BB30E488E85BEBA1)
+
 
 **Professional Reference:**  
 Wesley Gerrard - [FourFourCyber](https://fourfourcyber.com)
