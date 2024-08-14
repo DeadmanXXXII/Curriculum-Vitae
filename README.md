@@ -130,16 +130,28 @@ Ready to relocate to anywhere.
 # Military
 ## Certificates, Badges and Medals
 
-- NVQ in Security Managemaent
+- Herric 13 tour of duty medal.
+- War veterans tir pin.
+- NVQ in Security Managemaent.
 
 - Certificate of service
 ![COS](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/markup_1000015294.png)
-
 - Back
 ![COS](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155714.png)
-
 - Search Trained
-![All arms search course](https://raw.githubusercontent.com/DeadmanXXXII/)
+![All arms search course](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155705.png)
+
+# Bug bounty programs
+
+Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community
 
 
+# Seminars
+- CWL
+- Apollo HQ
+- Defcon
+- BlackHat
+- CALTECH
+- APIsecU
+- UK cyber convention.
 
