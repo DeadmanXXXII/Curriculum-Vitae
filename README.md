@@ -46,6 +46,12 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ![Attached cars and fleets](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/API_Sec_Attached_Cars_and_Fleets.png)
 
 - Certified in Networking CCNA
+![Fundamentals](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_Fundamentals.png)
+![ITN](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_ITN.png)
+![SRWE](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_SRWE.png)
+![ENSA](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_ENSA.png)
+
+
 - Blockchain Developer
 - **Data Scientist:** R, Rust, C, Python, SQL
 - **Certified to Advanced Proficiency in Languages:** Go, Golang, Serpent, C++, MPLS, Ruby, Full Stack Development
