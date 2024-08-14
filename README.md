@@ -14,7 +14,7 @@
 
 **Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
 
-** Microsoft Learn:**[Badges](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/CN5C5DP9?sharingId=BB30E488E85BEBA1)
+** Microsoft Learn:** [Badges](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/CN5C5DP9?sharingId=BB30E488E85BEBA1)
 
 
 **Professional Reference:**  
