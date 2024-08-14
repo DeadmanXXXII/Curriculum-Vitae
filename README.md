@@ -39,6 +39,10 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 - Certified Google Cloud Platform (GCP) Architect
 ![GCP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/GCP_Architect_Badge.png)
 
+- Certified In SIEM and Logging
+
+- 
+
 - Certified in API Penetration Testing
 - Certified in API Attached Cars and Fleets
 ![API Penetration Testing](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/API_Sec_Penetration_Testing.png
