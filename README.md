@@ -28,7 +28,9 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 
 - Certified AWS Information Recovery Specialist
 ![AWS IR and Data](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/AWS_information_recovery_badge.png)
+
 - Certified Azure Network Ninja
+![Azure](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Azure_network_DevOps.png)
 
 - Certified Google Cloud Platform (GCP) Architect
 - Certified in API Penetration Testing
