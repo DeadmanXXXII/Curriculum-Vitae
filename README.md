@@ -1,4 +1,5 @@
-# Blu Corbel Curriculum Vitae
+# Blu Corbel 
+## Curriculum Vitae
 
 **Address:** Ayr, Scotland, UK  
 **Email:** themadhattersplayground@gmail.com  
