@@ -33,7 +33,10 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ![Azure](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Azure_network_DevOps.png)
 
 - Certified Google Cloud Platform (GCP) Architect
+![GCP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/GCP_Architect_Badge.png)
+
 - Certified in API Penetration Testing
+
 - Certified in Networking CCNA
 - Certified in API Attached Cars and Fleets
 - Blockchain Developer
