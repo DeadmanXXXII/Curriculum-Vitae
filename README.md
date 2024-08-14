@@ -36,9 +36,12 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ![GCP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/GCP_Architect_Badge.png)
 
 - Certified in API Penetration Testing
+- Certified in API Attached Cars and Fleets
+![API Penetration Testing](https://raw.githubusercontent.com/DeadmanXXXII/
+)
+![Attached cars and fleets](https://raw.githubusercontent.com/DeadmanXXXII/)
 
 - Certified in Networking CCNA
-- Certified in API Attached Cars and Fleets
 - Blockchain Developer
 - **Data Scientist:** R, Rust, C, Python, SQL
 - **Certified to Advanced Proficiency in Languages:** Go, Golang, Serpent, C++, MPLS, Ruby, Full Stack Development
