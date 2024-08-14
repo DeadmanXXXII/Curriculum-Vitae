@@ -98,7 +98,7 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ## Technical Skills
 
 - Advanced proficiency in Kali Linux, Parrot OS Security, Windows terminals (PowerShell, Command Prompt, WSL, Ubuntu), and Nethunter for both local and remote work.
-- Extensive experience in SAST, DAST, SCA, and container scanning and building tools, particularly VirtualBox and VMWare Workstation Player.
+- Extensive experience in SAST, DAST, SCA, container scanning and building tools, particularly VirtualBox and VMWare Workstation Player.
 - Advanced GitHub security expertise.
 - Certified in firewall administration and management.
 - Certified Azure DevOps Pipeline.
