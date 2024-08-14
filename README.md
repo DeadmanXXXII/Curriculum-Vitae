@@ -40,8 +40,10 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 ![GCP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/GCP_Architect_Badge.png)
 
 - Certified In SIEM and Logging
+![SIEM and Logging](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Google_SIEM.png)
 
-- 
+- Certified In Generative AI
+![Generative AI](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/blob/main/Google_generative_AI.png)
 
 - Certified in API Penetration Testing
 - Certified in API Attached Cars and Fleets
@@ -69,6 +71,10 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 
 ![5DCC](https://raw.githubusercontent.com/DeadmanXXXII//Curriculum-Vitae/main/5_Day_Coding_Challenge.png)
 
+- Dark Web Operations
+![DWO](https://raw.githubusercontent.com/DeadmanXXXII/)
+
+- Qualified Blockchain developer
 - NVQ in Security Managemaent
 - Certified Associate in Project Management (CAPM)
 
