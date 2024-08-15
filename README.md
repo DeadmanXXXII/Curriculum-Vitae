@@ -170,10 +170,10 @@ Loads
 
 ### Projects
 
-#H4ck3d1t./exe
-@TheMadHattersPlayground.com
-CyberShorts2024
-DeadmanXXXII
+- #H4ck3d1t./exe
+- @TheMadHattersPlayground.com
+- CyberShorts2024
+- DeadmanXXXII
 
 # Seminars
 - CWL
