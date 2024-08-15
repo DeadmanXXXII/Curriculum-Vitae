@@ -165,7 +165,7 @@ Loads
 - vAPI: Complete 
 - Clickjacked: Complete
 - Ransomware Defense: Complete
-- BHIS Red Team boot camp: Complete (ARTO, @CyberBankSA and MACOSX machines
+- BHIS Red Team boot camp: Complete (ARTO, @CyberBankSA and MACOSX machines)
 - Fortinet (underway)
 
 ### Projects
