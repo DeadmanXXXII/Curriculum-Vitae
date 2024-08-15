@@ -145,6 +145,8 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 
 **Microsoft Learn:**
 
+[SC-100 p4](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/XVW7NJQY?sharingId=BB30E488E85BEBA1)
+
 [SC-100 p3](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/W73YACZN?sharingId=BB30E488E85BEBA1)
 
 
@@ -154,9 +156,8 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 
 [C#](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/UW5JPQB3?sharingId=BB30E488E85BEBA1)
 
-- HTB: Starting point, CREST penetration testing
-- HTB academy:
-Loads
+- HTB: Starting point path, CREST penetration testing path 
+- HTB academy: Loads
 - TryHackMe: SOC analyst path
 - VulnHub: Complete
 - DVWA: Complete
