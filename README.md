@@ -8,7 +8,18 @@
 
 **GitHub:** [DeadmanXXXII](https://github.com/DeadmanXXXII)
   
-**Website:** [The Mad Hatter’s Playground](https://the-mad-hatters-playground.com)  
+**Websites:** 
+
+##### Wix
+[The Mad Hatter’s Playground](https://the-mad-hatters-playground.com)  
+
+##### Independent 
+
+[The Mad Hatter’s Playground 🚧🏗️](https://the-mad-hatters-playground.netlify.app)
+
+This site is the same as 
+https://deadmanxxxii.github.io minus the backend function for processing payments and controlling the download associated.
+
 
 **Canva Interactive CV:** [Canva share link](https://www.canva.com/design/DAF_HoVvIJk/PuoOIXPYxlk3CNCCDNEhFw/view?utm_content=DAF_HoVvIJk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
