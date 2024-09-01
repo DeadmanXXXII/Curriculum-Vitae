@@ -155,6 +155,7 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 ### Platform Badges and paths
 
 **Microsoft Learn:**
+[SC-100 p7](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/8AHKN48W?sharingId=BB30E488E85BEBA1)
 
 [SC-100 p6](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/HRU2N6A8?sharingId=BB30E488E85BEBA1)
 
@@ -171,7 +172,7 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 
 [C#](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/UW5JPQB3?sharingId=BB30E488E85BEBA1)
 
-- HTB: Starting point path, CREST penetration testing path 
+- HTB: Starting point path, CREST penetration testing path, started Heist season
 - HTB academy: Loads
 - TryHackMe: SOC analyst path
 - VulnHub: Complete
@@ -182,7 +183,7 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 - Clickjacked: Complete
 - Ransomware Defense: Complete
 - BHIS Red Team boot camp: Complete (ARTO, @CyberBankSA and MACOSX machines)
-- Fortinet (underway)
+- Fortinet Fortigate 7.4 operator
 
 ### Projects
 
@@ -198,7 +199,9 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 - BlackHat
 - CALTECH
 - APIsecU
-- UK cyber convention.
+- UK cyber convention
+- Apollo R & D
+- Apollo Business continuity
 
 
 
