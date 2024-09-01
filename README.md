@@ -213,7 +213,7 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 
 - Herric 13 tour of duty medal.
 - War veterans tie pin.
-- NVQ in Security Managemaent.
+- NVQ2 in Security Managemaent.
 
 - Certificate of service
 ![COS](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/markup_1000015294.png)
