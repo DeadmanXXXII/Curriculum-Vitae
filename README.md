@@ -156,20 +156,7 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 
 **Microsoft Learn:**
 
-[SC-100 p7](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/8AHKN48W?sharingId=BB30E488E85BEBA1)
-
-[SC-100 p6](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/HRU2N6A8?sharingId=BB30E488E85BEBA1)
-
-[SC-100 p5](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/ETMGKZ5P?sharingId=BB30E488E85BEBA1)
-
-[SC-100 p4](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/XVW7NJQY?sharingId=BB30E488E85BEBA1)
-
-[SC-100 p3](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/W73YACZN?sharingId=BB30E488E85BEBA1)
-
-
-[SC-100 p2](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/CN5C5DP9?sharingId=BB30E488E85BEBA1)
-
-[SC-100 p1](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/HYEMHDD8?sharingId=BB30E488E85BEBA1)
+[SC-100](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/8AHKN48W?sharingId=BB30E488E85BEBA1)
 
 [C#](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/UW5JPQB3?sharingId=BB30E488E85BEBA1)
 
