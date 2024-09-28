@@ -156,7 +156,7 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 
 **Microsoft Learn:**
 
-[SC-100](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/8AHKN48W?sharingId=BB30E488E85BEBA1)
+[SC-100](https://learn.microsoft.com/en-us/users/blucorbel-2425/achievements/hru2n6a8)
 
 [C#](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/UW5JPQB3?sharingId=BB30E488E85BEBA1)
 
