@@ -39,7 +39,7 @@ Adept at leading offshore teams with exceptional communication abilities and a p
 
 Eager to secure a more challenging role in an Architecture Matrix.
 
-## Key Qualifications
+## Key Qualifications:
 
 - Certified Information Systems Security Professional (CISSP)
 ![CISSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CISSP.png)
@@ -49,6 +49,12 @@ Eager to secure a more challenging role in an Architecture Matrix.
 
 - Certified Web Application Security Tester (PWST)
 ![PWST](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Web_Application_Security.png)
+
+Microsoft Learn:
+
+[SC-100](https://learn.microsoft.com/en-us/users/blucorbel-2425/achievements/hru2n6a8)
+
+[C#](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/UW5JPQB3?sharingId=BB30E488E85BEBA1)
 
 - Kubernautes Helmsman
 ![Kubernautes](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Kubernautes_Badges.png)
@@ -153,12 +159,6 @@ Ready to relocate to anywhere.
 Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockchair, ZBD, HackerOne
 
 ### Platform Badges and paths
-
-**Microsoft Learn:**
-
-[SC-100](https://learn.microsoft.com/en-us/users/blucorbel-2425/achievements/hru2n6a8)
-
-[C#](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/UW5JPQB3?sharingId=BB30E488E85BEBA1)
 
 - HTB: Starting point path, CREST penetration testing path, started Heist season
 - HTB academy: Loads
