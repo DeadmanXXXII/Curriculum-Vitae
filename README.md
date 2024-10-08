@@ -39,6 +39,17 @@ Adept at leading offshore teams with exceptional communication abilities and a p
 
 Eager to secure a more challenging role in an Architecture Matrix.
 
+Below are achievements other than certificates and badges where ch are below them.
+
+I'm going to speak at the UKOSINT event in Glasgow on the 6th of November.
+
+![UK OSINT](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/signal-2024-10-07-20-55-38-971.png)
+
+
+Bug bounty Validations:
+
+![Google](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241008-165538.png)
+
 ## Key Qualifications:
 
 - Certified Information Systems Security Professional (CISSP)
