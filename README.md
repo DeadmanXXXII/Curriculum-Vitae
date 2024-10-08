@@ -39,7 +39,7 @@ Adept at leading offshore teams with exceptional communication abilities and a p
 
 Eager to secure a more challenging role in an Architecture Matrix.
 
-Below are achievements other than certificates and badges where ch are below them.
+Below are achievements other than certificates and badges which are below them.
 
 I'm going to speak at the UKOSINT event in Glasgow on the 6th of November.
 
