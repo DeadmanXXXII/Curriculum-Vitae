@@ -192,6 +192,8 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 - DeadmanXXXII
 
 # Seminars
+
+- Unplugged
 - CWL
 - Apollo HQ
 - Defcon
