@@ -31,7 +31,7 @@ Wesley Gerrard - [FourFourCyber](https://fourfourcyber.com)
 
 ## Objective and Personal Statement
 
-A dynamic and certified Information, Network, and Cyber Security Lead or Team member with extensive experience in offensive security roles. 
+A dynamic and certified Information, Network, and Cyber Security Lead or Team member with extensive experience in Offensive Security roles. 
 
 Skilled in infrastructure and application vulnerability assessments, vulnerability remediation, and advanced proficiency in a variety of security tools and methodologies.
 
