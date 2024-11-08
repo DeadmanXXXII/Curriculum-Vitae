@@ -41,7 +41,7 @@ Eager to secure a more challenging role in an Architecture Matrix.
 
 Below are achievements other than certificates and badges which are below them.
 
-I'm going to speak at the UKOSINT event in Glasgow on the 6th of November.
+I'm going to speak at the UK OSINT event in Glasgow on the 6th of November.
 
 ![UK OSINT](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/signal-2024-10-07-20-55-38-971.png)
 
