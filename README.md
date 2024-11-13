@@ -61,10 +61,10 @@ Bug bounty Validations:
 - Certified Web Application Security Tester (PWST)
 ![PWST](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Web_Application_Security.png)
 
-Microsoft Learn:
-
+- SC-100
 [SC-100](https://learn.microsoft.com/en-us/users/blucorbel-2425/achievements/hru2n6a8)
 
+- C#
 [C#](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/UW5JPQB3?sharingId=BB30E488E85BEBA1)
 
 - Kubernautes Helmsman
@@ -84,6 +84,9 @@ Microsoft Learn:
 
 - Certified Google Cloud Platform (GCP) Architect
 ![GCP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/GCP_Architect_Badge.png)
+
+- Renewal
+![GCP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241113-193214.png)
 
 - Certified In SIEM and Logging
 ![SIEM and Logging](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Google_SIEM.png)
