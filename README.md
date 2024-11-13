@@ -25,6 +25,10 @@ https://deadmanxxxii.github.io minus the backend function for processing payment
 
 **Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
 
+My e-book:
+
+![Book cover](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover.jpg)
+
 
 **Professional Reference:**  
 Wesley Gerrard - [FourFourCyber](https://fourfourcyber.com)
