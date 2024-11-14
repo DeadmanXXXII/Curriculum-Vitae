@@ -25,7 +25,11 @@ https://deadmanxxxii.github.io minus the backend function for processing payment
 
 **Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
 
-My e-book on sale on KDP, Google bookstore and [Lulu](https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-cybersecurity/ebook/product-m2q8795.html?page=1&pageSize=4):
+My e-book on sale on KDP, Google bookstore and Lulu:
+
+[An Introduction to Cybersecurity]
+(https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-cybersecurity/ebook/product-m2q8795.html?page=1&pageSize=4)
+
 
 ![Book cover](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover.jpg)
 
