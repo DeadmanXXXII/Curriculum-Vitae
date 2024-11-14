@@ -27,11 +27,12 @@ https://deadmanxxxii.github.io minus the backend function for processing payment
 
 My e-book on sale on KDP, Google bookstore and Lulu:
 
-[An Introduction to Cybersecurity]
-(https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-cybersecurity/ebook/product-m2q8795.html?page=1&pageSize=4)
+[An Introduction to Cybersecurity](https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-cybersecurity/ebook/product-m2q8795.html?page=1&pageSize=4)
 
 
 ![Book cover](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover.jpg)
+
+[An Introduction to Enumeration and OSINT](https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-osint-and-enumeration/ebook/product-57ez78j.html?q=An+introduction+to+Enumeration+&page=1&pageSize=4)
 
 ![Book cover 2](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover2.jpg)
 
