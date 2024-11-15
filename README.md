@@ -79,7 +79,7 @@ Bug bounty Validations:
 ![Kubernautes](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Kubernautes_Badges.png)
 
 - Renewal
-![Kubernautes](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/134722041.png)
+![Kubernautes](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/134722041.jpg)
 
 - Certified in Cybersecurity (C|C)
 ![C|C](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/C%7CC.png)
