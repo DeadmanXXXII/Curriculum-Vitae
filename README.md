@@ -145,6 +145,7 @@ Bug bounty Validations:
 
 - Qualified Blockchain developer simplilearn
 - Certified Associate in Project Management (CAPM) simplilearn
+- Fortinet Fortigate 7.4 operator
 
 ## Technical Skills
 
@@ -199,7 +200,6 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 - Clickjacked: Complete
 - Ransomware Defense: Complete
 - BHIS Red Team boot camp: Complete (ARTO, @CyberBankSA and MACOSX machines)
-- Fortinet Fortigate 7.4 operator
 
 ### Projects
 
