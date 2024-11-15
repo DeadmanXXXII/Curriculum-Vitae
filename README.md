@@ -20,9 +20,6 @@
 This site is the same as 
 https://deadmanxxxii.github.io minus the backend function for processing payments and controlling the download associated.
 
-
-**Canva Interactive CV:** [Canva share link](https://www.canva.com/design/DAF_HoVvIJk/PuoOIXPYxlk3CNCCDNEhFw/view?utm_content=DAF_HoVvIJk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
 **Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
 
 My e-book on sale on KDP, Google bookstore and Lulu:
@@ -140,8 +137,9 @@ Bug bounty Validations:
 - ISC2 Candidate Badge
 ![ISC2 badge](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/ISC2_Candidate.png)
 
-- Qualified Blockchain developer
-- Certified Associate in Project Management (CAPM)
+- EHPT+ udemy
+- Qualified Blockchain developer simplilearn
+- Certified Associate in Project Management (CAPM) simplilearn
 
 ## Technical Skills
 
