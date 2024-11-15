@@ -140,7 +140,6 @@ Bug bounty Validations:
 - EHPT+ udemy
 ![EHPT+](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/134685209.jpg)
 
-- EHPT+ udemy
 - Qualified Blockchain developer simplilearn
 - Certified Associate in Project Management (CAPM) simplilearn
 
