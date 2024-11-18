@@ -245,5 +245,7 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 ![Stripper](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241118-053144.png)
 
 Prior to all this I worked in Kitchens and Building sites:
-I'm also a qualified excavator operator with lifting ops, dump truck certified, a qualified scaffolder, brickie and foundation architect.
+
+I'm also a qualified excavator operator with lifting ops CPCS, dump truck certified CPCS, a qualified scaffolder cisrs and part 1s, brickie Advanced bricklayer with whaleboning and a foundation architect.
+
 Prior to that I was a Michelin star chef.
