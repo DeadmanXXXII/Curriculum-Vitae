@@ -239,3 +239,11 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 - Search Trained
 ![All arms search course](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155705.png)
 
+# Miscellaneous
+
+- Exotic, pole dance and stripper trained
+![Stripper](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241118-053144.png)
+
+Prior to all this I worked in Kitchens and Building sites:
+I'm also a qualified excavator operator with lifting ops, dump truck certified, a qualified scaffolder, brickie and foundation architect.
+Prior to that I was a Michelin star chef.
