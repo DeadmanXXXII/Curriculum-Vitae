@@ -241,7 +241,7 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 
 # Miscellaneous
 
-For a very brief period I was a professional fighter at Venum and took part in suoer showdown 2022 in Brighton.
+For a very brief period I was a professional fighter at Venum and took part in super showdown 2022 in Brighton.
 
 - Exotic, pole dance and stripper trained
 ![Stripper](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241118-053144.png)
