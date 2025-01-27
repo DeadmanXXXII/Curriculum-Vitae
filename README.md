@@ -63,6 +63,11 @@ Bug bounty Validations:
 - Certified Information Systems Security Professional (CISSP)
 ![CISSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CISSP.png)
 
+- Certified Network Security Professional (CNSP)
+![CNSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/BluCorbel-CertifiedNetworkSecurityPractitioner(CNSP).pdf)
+
+
+
 - Certified Ethical Hacker (C|EH)
 ![C|EH](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Ethical_Hacking.png)
 
