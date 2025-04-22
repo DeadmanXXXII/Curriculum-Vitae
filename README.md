@@ -61,7 +61,7 @@ Bug bounty Validations:
 - Certified Ethical Hacker (C|EH)
 ![C|EH](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Ethical_Hacking.png)
 
-![CiscoCEH](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/EthicalHackerUpdate20250422-27-oyuyor.pdf)
+![CiscoCEH](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250422-224418.png)
 
 
 - Certified Web Application Security Tester (PWST)
