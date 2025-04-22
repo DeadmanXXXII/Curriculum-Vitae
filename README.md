@@ -55,9 +55,6 @@ Bug bounty Validations:
 - Certified Network Security Professional (CNSP)
 ![CNSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250127-164111.png)
 
-- Recon Pentester labs: Completed on a smartphone please check my LinkedIn post and video.
-[LinkedIn](https://www.linkedin.com/posts/blu-corbel-bb5700265_blu-corbel-on-instagram-anonymous-reels-activity-7304481783654350850-e2dK?utm_source=share&utm_medium=member_android&rcm=ACoAAEEQ6rkBHnKL_PBq_GVMQgRdtRXG2bLepSw)
-
 ---
 
 
