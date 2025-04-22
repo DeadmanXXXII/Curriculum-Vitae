@@ -36,17 +36,7 @@ Adept at leading offshore teams with exceptional communication abilities and a p
 
 Eager to secure a more challenging role in an Architecture Matrix.
 
-Below are achievements other than certificates and badges which are below them.
-
-I'm going to speak at the UK OSINT event in Glasgow on the 6th of November.
-
-![UK OSINT](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/signal-2024-10-07-20-55-38-971.png)
-
-
-Bug bounty Validations:
-
-![Google](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241008-165538.png)
-
+ 
 ## Key Qualifications:
 
 - Certified Information Systems Security Professional (CISSP)
@@ -252,6 +242,16 @@ I'm also a qualified excavator operator with lifting ops CPCS, dump truck certif
 
 Prior to that I was a Michelin star chef.
 
+Other notable achievements:
+
+I'm going to speak at the UK OSINT event in Glasgow on the 6th of November.
+
+![UK OSINT](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/signal-2024-10-07-20-55-38-971.png)
+
+
+Bug bounty Validations:
+
+![Google](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241008-165538.png)
 
 My e-book on sale on KDP, Google bookstore and Lulu:
 
@@ -263,3 +263,6 @@ My e-book on sale on KDP, Google bookstore and Lulu:
 [An Introduction to Enumeration and OSINT](https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-osint-and-enumeration/ebook/product-57ez78j.html?q=An+introduction+to+Enumeration+&page=1&pageSize=4)
 
 ![Book cover 2](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover2.jpg)
+
+
+
