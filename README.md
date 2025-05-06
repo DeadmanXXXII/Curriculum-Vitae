@@ -45,8 +45,8 @@ Eager to secure a more challenging role in an Architecture Matrix.
 - Certified Network Security Professional (CNSP)
 ![CNSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250127-164111.png)
 
----
-
+- Certified Network Security Professional (CNSP)
+![CNSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250127-164111.png)
 
 - Certified Ethical Hacker (C|EH)
 ![C|EH](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Ethical_Hacking.png)
