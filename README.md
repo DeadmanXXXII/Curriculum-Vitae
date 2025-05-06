@@ -42,8 +42,8 @@ Eager to secure a more challenging role in an Architecture Matrix.
 - Certified Information Systems Security Professional (CISSP)
 ![CISSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CISSP.png)
 
-- Certified Network Security Professional (CNSP)
-![CNSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250127-164111.png)
+- Windows Red Team Operator API (WRTO_API)
+![WRTO_API](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250506-132543.png)
 
 - Certified Network Security Professional (CNSP)
 ![CNSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250127-164111.png)
