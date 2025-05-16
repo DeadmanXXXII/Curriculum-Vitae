@@ -60,6 +60,7 @@ Eager to secure a more challenging role in an Architecture Matrix.
 - SC-100
 [SC-100](https://learn.microsoft.com/en-us/users/blucorbel-2425/achievements/hru2n6a8)
 
+- PTLabs Recon (completed by smartphone)
 ![RECONPL](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250317-122229.png)
 
 - C#
