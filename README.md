@@ -254,6 +254,9 @@ Bug bounty Validations:
 
 ![Google](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241008-165538.png)
 
+
+![Hkrt](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250619-180033.png)
+
 My e-book on sale on KDP, Google bookstore and Lulu:
 
 [An Introduction to Cybersecurity](https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-cybersecurity/ebook/product-m2q8795.html?page=1&pageSize=4)
