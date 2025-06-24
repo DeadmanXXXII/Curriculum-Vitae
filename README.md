@@ -26,6 +26,14 @@ https://deadmanxxxii.github.io minus the backend function for processing payment
 **Professional Reference:**  
 Wesley Gerrard - [FourFourCyber](https://fourfourcyber.com)
 
+
+**Bug bounty Validations:**
+
+![Google](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241008-165538.png)
+
+
+![Hkrt](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250619-180033.png)
+
 ## Objective and Personal Statement
 
 A dynamic and certified Information, Network, and Cyber Security Lead or Team member with extensive experience in Offensive Security roles. 
@@ -249,13 +257,6 @@ I'm going to speak at the UK OSINT event in Glasgow on the 6th of November.
 
 ![UK OSINT](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/signal-2024-10-07-20-55-38-971.png)
 
-
-Bug bounty Validations:
-
-![Google](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241008-165538.png)
-
-
-![Hkrt](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250619-180033.png)
 
 My e-book on sale on KDP, Google bookstore and Lulu:
 
