@@ -53,6 +53,9 @@ Eager to secure a more challenging role in an Architecture Matrix.
 - Windows Red Team Operator API (WRTO_API)
 ![WRTO_API](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250506-132543.png)
 
+- AV/EDR Evasion
+![AV/EDR Evasion](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250625-044035.png)
+
 - Certified Network Security Professional (CNSP)
 ![CNSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250127-164111.png)
 
