@@ -34,10 +34,13 @@ Wesley Gerrard - [FourFourCyber](https://fourfourcyber.com)
 
 **Bug bounty Validations:**
 
+##### **Google**
 ![Google](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241008-165538.png)
 
+##### **Hackrate**
 ![Hkrt](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250619-180033.png)
 
+##### **Cyfrin CodeHawks**
 ![Cyfrin CodeHawks](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250718-191958.png)
 
 
