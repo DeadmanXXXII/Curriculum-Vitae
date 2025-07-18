@@ -36,8 +36,10 @@ Wesley Gerrard - [FourFourCyber](https://fourfourcyber.com)
 
 ![Google](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241008-165538.png)
 
-
 ![Hkrt](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250619-180033.png)
+
+![Cyfrin CodeHawks](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250718-191958.png)
+
 
 ## Objective and Personal Statement
 
