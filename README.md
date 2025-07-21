@@ -237,19 +237,6 @@ Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockcha
 
 ---
 
-# Military
-## Certificates, Badges and Medals
-
-- Herric 13 tour of duty medal.
-- War veterans tie pin.
-- NVQ2 in Security Managemaent.
-
-- Certificate of service
-![COS](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/markup_1000015294.png)
-- Back
-![COS](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155714.png)
-- Search Trained
-![All arms search course](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155705.png)
 
 # Miscellaneous
 
