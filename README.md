@@ -103,6 +103,9 @@ Eager to secure a more challenging role in an Architecture Matrix.
 ![AWS IR and Data](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/AWS_information_recovery_badge.png)
 
 - Certified Azure Network Ninja
+![Azure](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Sentinel%20Ninja%20Training%20Certificate.pdf)
+
+- Certified Azure Network Ninja
 ![Azure](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Azure_network_DevOps.png)
 
 - Certified Google Cloud Platform (GCP) Architect
