@@ -103,7 +103,7 @@ Eager to secure a more challenging role in an Architecture Matrix.
 ![AWS IR and Data](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/AWS_information_recovery_badge.png)
 
 - Certified Sentinel Ninja
-![Sentinel](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Sentinel%20Ninja%20Training%20Certificate.pdf)
+![Sentinel](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250724-100627.png)
 
 - Certified Azure Network Ninja
 ![Azure](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Azure_network_DevOps.png)
