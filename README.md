@@ -60,6 +60,9 @@ Eager to secure a more challenging role in an Architecture Matrix.
 - Certified Information Systems Security Professional (CISSP)
 ![CISSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CISSP.png)
 
+- Red Team Management
+![RTM](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250725-233925.png)
+
 - Windows Red Team Operator API (WRTO_API)
 ![WRTO_API](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250506-132543.png)
 
