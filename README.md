@@ -21,6 +21,12 @@ blucorbel29@gmail.com
 **YouTube:** 
 [TheMadHattersPlayground](https://youtube.com/@themadhattersplayground?si=uoDN0NzLVAKuNV8e)
 
+
+**Credly:**  
+[Credly Badges Blu Corbel](https://www.credly.com/users/blu-corbel.9d1923db)
+
+
+
 **Websites:** 
 
 ##### My apps
@@ -35,8 +41,6 @@ blucorbel29@gmail.com
 
 [The Mad Hatter’s Playground 🚧🏗️](https://the-mad-hatters-playground.netlify.app)
 
-
-**Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
 
 
 **Professional Reference:**  
