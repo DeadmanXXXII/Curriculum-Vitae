@@ -99,13 +99,13 @@ Eager to secure a more challenging role in an Architecture/Operations Matrix.
 ![PWST](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Web_Application_Security.png)
 
 - SC-100
-[SC-100](https://learn.microsoft.com/en-us/users/blucorbel-2425/achievements/hru2n6a8)
+[SC-100](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250729-101515.png)
 
 - PTLabs Recon (completed by smartphone)
 ![RECONPL](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250317-122229.png)
 
 - C#
-[C#](https://learn.microsoft.com/api/achievements/share/en-us/BluCorbel-2425/UW5JPQB3?sharingId=BB30E488E85BEBA1)
+[C#](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250729-101543.png)
 
 - Kubernautes Helmsman
 ![Kubernautes](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Kubernautes_Badges.png)
