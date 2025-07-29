@@ -22,8 +22,7 @@ blucorbel29@gmail.com
 [TheMadHattersPlayground](https://youtube.com/@themadhattersplayground?si=uoDN0NzLVAKuNV8e)
 
 
-**Credly:**  
-[Credly Badges Blu Corbel](https://www.credly.com/users/blu-corbel.9d1923db)
+**Credly:**  [Credly Badges Blu Corbel](https://www.credly.com/users/blu-corbel.9d1923db)
 
 
 
