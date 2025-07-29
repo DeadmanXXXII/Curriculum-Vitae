@@ -52,7 +52,7 @@ Wesley Gerrard - [FourFourCyber](https://fourfourcyber.com)
 ![Hkrt](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250619-180033.png)
 
 ##### **Cyfrin CodeHawks**
-![Cyfrin CodeHawks](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250718-191958.png)
+![Cyfrin CodeHawks](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250727-133516.png)
 
 
 ## Objective and Personal Statement
@@ -63,7 +63,7 @@ Skilled in infrastructure and application vulnerability assessments, vulnerabili
 
 Adept at leading offshore teams with exceptional communication abilities and a passion for delivering superior security solutions. 
 
-Eager to secure a more challenging role in an Architecture Matrix.
+Eager to secure a more challenging role in an Architecture/Operations Matrix.
 
  
 ## Key Qualifications:
