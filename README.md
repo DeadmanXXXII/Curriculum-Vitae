@@ -15,15 +15,18 @@ blucorbel29@gmail.com
   
 **Websites:** 
 
+##### My apps
+[AEinstein](https://aeinstein.website)
+
+[TheMadHattersPlayground](https://www.hopp.bio/the-mad-hatters-playground)
+
 ##### Wix
-[The Mad Hatter’s Playground](https://the-mad-hatters-playground.com)  
+[The Mad Hatter’s Playground](https://blucorbel31.wixsite.com/the-mad-hatters-play)  
 
 ##### Independent 
 
 [The Mad Hatter’s Playground 🚧🏗️](https://the-mad-hatters-playground.netlify.app)
 
-This site is the same as 
-https://deadmanxxxii.github.io minus the backend function for processing payments and controlling the download associated.
 
 **Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
 
