@@ -22,10 +22,10 @@ blucorbel29@gmail.com
 [TheMadHattersPlayground](https://youtube.com/@themadhattersplayground?si=uoDN0NzLVAKuNV8e)
 
 **Microsoft Learn:** 
-[Microsoft badges Blu Corbel](https://learn.microsoft.com/en-us/users/blucorbel-2425/)
+[Microsoft badges](https://learn.microsoft.com/en-us/users/blucorbel-2425/)
 
 
-**Credly:**  [Credly Badges Blu Corbel](https://www.credly.com/users/blu-corbel.9d1923db)
+**Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
 
 
 
