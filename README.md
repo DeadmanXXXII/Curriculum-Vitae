@@ -9,13 +9,17 @@
 blucorbel29@gmail.com
 
 
-**LinkedIn:** [Blu Corbel](https://www.linkedin.com/in/blu-corbel-bb5700265)  
+**LinkedIn:** 
+[Blu Corbel](https://www.linkedin.com/in/blu-corbel-bb5700265)  
 
-**GitHub:** [DeadmanXXXII](https://github.com/DeadmanXXXII)
+**GitHub:** 
+[DeadmanXXXII](https://github.com/DeadmanXXXII)
 
-**Instagram:** [CyberShorts 2024](https://www.instagram.com/cybershorts2024/)
+**Instagram:** 
+[CyberShorts 2024](https://www.instagram.com/cybershorts2024/)
 
-**YouTube:** [TheMadHattersPlayground](https://youtube.com/@themadhattersplayground?si=uoDN0NzLVAKuNV8e)
+**YouTube:** 
+[TheMadHattersPlayground](https://youtube.com/@themadhattersplayground?si=uoDN0NzLVAKuNV8e)
 
 **Websites:** 
 
