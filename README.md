@@ -34,14 +34,14 @@ blucorbel29@gmail.com
 ##### My apps
 [AEinstein](https://aeinstein.website)
 
-[TheMadHattersPlayground](https://www.hopp.bio/the-mad-hatters-playground)
+[TheMadHattersPlayground](https://www.hopp.bio/the-mad-hatters-playground) (Hopp)
 
 ##### Wix
 [The Mad Hatter’s Playground](https://blucorbel31.wixsite.com/the-mad-hatters-play)  
 
 ##### Independent 
 
-[The Mad Hatter’s Playground 🚧🏗️](https://the-mad-hatters-playground.netlify.app)
+[The Mad Hatter’s Playground 🚧🏗️](https://the-mad-hatters-playground.netlify.app) (Netlify)
 
 
 
