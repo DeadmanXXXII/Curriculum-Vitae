@@ -86,6 +86,9 @@ Eager to secure a more challenging role in an Architecture/Operations Matrix.
 - AV/EDR Evasion
 ![AV/EDR Evasion](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250625-044035.png)
 
+-OpSec and Anonymity 
+![OpSec+Anon](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250731-230430.png)
+
 - Certified Network Security Professional (CNSP)
 ![CNSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250127-164111.png)
 
