@@ -86,9 +86,11 @@ Eager to secure a more challenging role in an Architecture/Operations Matrix.
 - Red Team Management (RTM)
 ![RTM](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250725-233925.png)
 
-- Scottish law and debates
-  ![Sld](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/WXM151_3_statement.pdf)
+- Scottish law (More to follow shortly.)
+  ![Certificate](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250819-152422.png)
 
+  ![Badge](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Legal_skills_and_debates_in_Scotland_19_Aug_2025_faabdd8f.png)
+  
 - Windows Red Team Operator API (WRTO_API)
 ![WRTO_API](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250506-132543.png)
 
