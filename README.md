@@ -28,6 +28,9 @@ blucorbel29@gmail.com
 **Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
 
 
+**Cyfrin:** 
+[Cyfrin](https://profiles.cyfrin.io/u/deadmanxxxii/achievements/)  
+
 
 **Websites:** 
 
@@ -73,6 +76,9 @@ Eager to secure a more challenging role in an Architecture/Operations Matrix.
 
  
 ## Key Qualifications:
+
+- Smart Contract Security Auditor (SCSA)
+ ![SCSA](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250819-151124.png)
 
 - Certified Information Systems Security Professional (CISSP)
 ![CISSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CISSP.png)
