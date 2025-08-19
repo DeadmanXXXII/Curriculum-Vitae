@@ -87,7 +87,7 @@ Eager to secure a more challenging role in an Architecture/Operations Matrix.
 ![RTM](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250725-233925.png)
 
 - Scottish law and debates
-  ![Sl+d](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/WXM151_3_statement.pdf)
+  ![Sld](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/WXM151_3_statement.pdf)
 
 - Windows Red Team Operator API (WRTO_API)
 ![WRTO_API](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250506-132543.png)
