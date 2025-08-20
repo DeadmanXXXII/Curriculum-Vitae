@@ -1,7 +1,7 @@
 # Blu Corbel 
 ## Curriculum Vitae
 
-[![Get my CV](https://img.shields.io/badge/Get%20my-CV-red.svg)](./CV.pdf)
+[![Get my CV](https://img.shields.io/badge/Get%20my-CV-red.svg)](./TheOne.pdf)
 
 
 **Address:** Ayr, Scotland, UK  
