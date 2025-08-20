@@ -1,11 +1,7 @@
 # Blu Corbel 
 ## Curriculum Vitae
 
-[![Get my CV](https://img.shields.io/badge/Get%20my-CV-red.svg)](./TheOne.pdf)
-
-<a href="./TheOne.pdf" download>
-  <img src="https://img.shields.io/badge/Get%20my-CV-red.svg" alt="Get my CV">
-</a>
+[![Get my CV](https://img.shields.io/badge/Get%20my-CV-red.svg)](https://github.com/YourUser/YourRepo/raw/main/TheOne.pdf)
 
 
 **Address:** Ayr, Scotland, UK  
