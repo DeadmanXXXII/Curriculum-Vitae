@@ -1,7 +1,7 @@
 # Blu Corbel 
 ## Curriculum Vitae
 
-[![Get my CV](https://img.shields.io/badge/Get%20my-CV-red.svg)](https://github.com/YourUser/YourRepo/raw/main/TheOne.pdf)
+[![Get my CV](https://img.shields.io/badge/Get%20my-CV-red.svg)](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheOne.pdf)
 
 
 **Address:** Ayr, Scotland, UK  
