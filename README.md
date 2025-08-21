@@ -2,6 +2,7 @@
 ## Curriculum Vitae
 
 [![Get my CV](https://img.shields.io/badge/Get%20my-CV-red.svg)](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheOne.pdf)
+Those logos are live btw.
 
 
 **Address:** Ayr, Scotland, UK  
