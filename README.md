@@ -32,6 +32,9 @@ aeinsteinapp@gmail.com
 **GitHub:** 
 [DeadmanXXXII](https://github.com/DeadmanXXXII)
 
+**Crowdcruit:** 
+[DeadmanXXXII](https://crowdcruit.com/user/BluCorbel)
+
 **Instagram:** 
 [CyberShorts 2024](https://www.instagram.com/cybershorts2024/)
 
