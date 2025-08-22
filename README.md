@@ -310,7 +310,7 @@ Prior to that I was a Michelin star chef.
 
 Other notable achievements:
 
-I'm going to speak at the UK OSINT event in Glasgow on the 6th of November.
+I spoke at the UK OSINT event in Glasgow on the 6th of November. The demonstration I gave went really well. It was about the power of a smartphone in OSINT.
 
 ![UK OSINT](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/signal-2024-10-07-20-55-38-971.png)
 
