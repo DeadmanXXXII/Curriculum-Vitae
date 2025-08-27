@@ -4,12 +4,12 @@
 Depending on position you are checking me out for.
 Those logos are live btw.
 
-Red Team, Penetration testing, Vulnerability-Management.
+Red Team: Penetration testing, Vulnerability-Management.
 The Red One:
 
 [![Get my CV](https://img.shields.io/badge/Get%20my-CV-red.svg)](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheOne.pdf)
 
-Blue Team Network/Solutions Architect, Software Management.
+Blue Team: Network/Solutions Architect, Software Management.
 The Blue One:
 
 [![Get my CV](https://img.shields.io/badge/Get%20my-CV-blue.svg)](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheBlueOne.pdf)
