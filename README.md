@@ -113,7 +113,10 @@ Eager to secure a more challenging role in an Architecture/Operations Matrix.
 
 - Advanced Web3 security
 ![Web3 security](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250819-161752.png)
-  
+
+- Mobilehackinglabs TokenBleed
+![TokenBleed](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250827-082308.png)
+
 - Windows Red Team Operator API (WRTO_API)
 ![WRTO_API](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250506-132543.png)
 
