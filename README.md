@@ -773,7 +773,7 @@ Author of cybersecurity educational material available through online publishing
 
 ## 📖 An Introduction to Cybersecurity
 
-A practical cybersecurity guide covering foundational security concepts, bug bounty methodology, cloud security, network defence, virtual lab environments, vulnerability research and secure infrastructure design. 
+A practical cybersecurity guide covering foundational security concepts, bug bounty methodology, cloud security, network defence, virtual lab environments, vulnerability research and secure infrastructure design.
 
 Available through:
 
