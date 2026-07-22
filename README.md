@@ -1,11 +1,9 @@
-# Blu Corbel 
-## Curriculum Vitae
+# Blu Corbel
 
-Blu Corbel
+## Curriculum Vitae & Professional 
+## Cybersecurity Portfolio
 
-Curriculum Vitae & Professional Cybersecurity Portfolio
-
-«A comprehensive record of my professional experience, certifications, security research, validated vulnerability disclosures, technical achievements, open-source contributions, and continuous learning throughout my cybersecurity career.»
+A comprehensive record of my professional experience, certifications, security research, validated vulnerability disclosures, technical achievements, open-source contributions, and continuous learning throughout my cybersecurity career.
 
 ---
 
