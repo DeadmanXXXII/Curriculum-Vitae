@@ -24,7 +24,7 @@ Designed for positions including:
 - Vulnerability Management Lead
 - Security Researcher
 
-""Get my CV" (https://img.shields.io/badge/Get%20my-CV-red.svg)" (https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheOne.pdf)
+[![Get my CV](https://img.shields.io/badge/Get%20my-CV-red.svg)](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheOne.pdf)
 
 ---
 
@@ -39,7 +39,7 @@ Designed for positions including:
 - Security Operations
 - Technical Lead
 
-""Get my CV" (https://img.shields.io/badge/Get%20my-CV-blue.svg)" (https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheBlueOne.pdf)
+[![Get my CV](https://img.shields.io/badge/Get%20my-CV-blue.svg)](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheBlueOne.pdf)
 
 ---
 
@@ -54,7 +54,7 @@ Designed for positions including:
 - Information Security Consultant
 - Platform Security Engineer
 
-""Get my CV" (https://img.shields.io/badge/Get%20my-CV-yellow.svg)" (https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheYellowOne.pdf)
+[![Get my CV](https://img.shields.io/badge/Get%20my-CV-yellow.svg)](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheYellowOne.pdf)
 
 ---
 
@@ -442,5 +442,43 @@ My e-book on sale on KDP, Google bookstore and Lulu:
 
 ![Book cover 2](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover2.jpg)
 
+Depending on position you are checking me out for.
+Those logos are live btw.
+
+Red Team: Penetration testing, Vulnerability-Management.
+The Red One:
+
+
+
+Blue Team: Network/Solutions Architect, Software Management.
+The Blue One:
+
+
+
+Yellow Team: Cloud Architecture/DevSecOps, Information security, Software engineer.
+The Yellow One:
+
+
+
+**Address:** Ayr, Scotland, UK  
+**Email:** 
+themadhattersplayground@gmail.com  
+blucorbel29@gmail.com
+aeinsteinapp@gmail.com
+
+**LinkedIn:** 
+[Blu Corbel](https://www.linkedin.com/in/blu-corbel-bb5700265)  
+
+**GitHub:** 
+[DeadmanXXXII](https://github.com/DeadmanXXXII)
+
+**Crowdcruit:** 
+[DeadmanXXXII](https://crowdcruit.com/user/BluCorbel)
+
+**Instagram:** 
+[CyberShorts 2024](https://www.instagram.com/cybershorts2024/)
+
+**YouTube:** 
+[TheMadHattersPlayground](https://youtube.com/@themadhattersplayground?si=uoDN0NzLVAKuNV8e)
 
 
