@@ -153,6 +153,64 @@ https://fourfourcyber.com
 
 «This repository is organised into specialist domains including Offensive Security, Cyber Defence, Cloud & DevSecOps, Networking, Programming, Data Science, Governance, Technical Research, Open Source Projects, Industry Certifications, and Professional Achievements to make navigating my experience as straightforward as possible.»
 
+💼 Professional Summary
+
+A highly motivated and continuously developing cybersecurity professional with practical experience across Offensive Security, Application Security, Cloud Security, DevSecOps, Infrastructure Security, Network Security, Vulnerability Management, and Security Architecture.
+
+My career has been built on combining technical research with hands-on experience, allowing me to identify, assess, prioritise, and remediate security vulnerabilities across modern enterprise environments.
+
+I have experience conducting infrastructure, cloud, web application, API, and mobile security assessments while working with industry-standard security methodologies including the OWASP Top 10, MITRE ATT&CK, CVSS v3.1, SAST, DAST, SCA, container security, and secure software development practices.
+
+Alongside professional development, I actively participate in bug bounty programmes, responsible vulnerability disclosure initiatives, security research, capture-the-flag platforms, laboratory environments, and open-source software development to continually expand my practical knowledge.
+
+I enjoy building security tooling, automating security processes, researching emerging attack techniques, and sharing knowledge through publications, presentations, and community engagement.
+
+I am seeking opportunities where I can contribute as a technical specialist, senior engineer, architect, or team leader while continuing to develop within Offensive Security, Cloud Security, Application Security, DevSecOps, and Security Architecture.
+
+---
+
+🎯 Core Areas of Expertise
+
+- 🔴 Offensive Security & Red Teaming
+- 🌐 Web & API Penetration Testing
+- ☁ Cloud Security (AWS, Azure & Google Cloud)
+- ⚙ DevSecOps & Secure SDLC
+- 🛡️ Application Security
+- 🔍 Vulnerability Assessment & Vulnerability Management
+- 🧩 Security Architecture & Solution Design
+- 🖥️ Infrastructure & Network Security
+- 📱 Mobile Application Security
+- 🧠 Threat Modelling & Risk Assessment
+- 🔐 Identity, Access Management & Zero Trust
+- 📊 Security Research & Responsible Disclosure
+- 🤖 Security Automation & AI-Assisted Development
+- 💻 Software Engineering & Open Source Development
+
+---
+
+🏆 Validated Security Research & Responsible Disclosure
+
+Practical security research forms a significant part of my professional development.
+
+The findings below represent validated vulnerabilities and recognised security contributions submitted through responsible disclosure and bug bounty programmes. They demonstrate practical application of offensive security techniques against real-world systems while following coordinated disclosure processes.
+
+These acknowledgements complement my formal qualifications by providing independently validated evidence of technical capability.
+
+Cyfrin CodeHawks
+
+"Cyfrin CodeHawks" (https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250826-193744.png)
+
+Google
+
+"Google" (https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241008-165538.png)
+
+Hackrate
+
+"Hackrate" (https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250619-180033.png)
+
+---
+
+🎓 Industry Certifications & Professional Qualifications
 
 **Bug bounty Validations:**
 
