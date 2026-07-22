@@ -215,6 +215,338 @@ These acknowledgements complement my formal qualifications by providing independ
 
 ## 🎓 Industry Certifications & Professional Qualifications
 
+## 🎓 Industry Certifications & Professional Qualifications
+
+> This section documents my industry-recognised certifications, professional qualifications, specialist training, and continuous professional development. Qualifications are grouped by technical discipline to provide a clearer overview of my capabilities across Offensive Security, Cyber Defence, Cloud Security, Networking, Software Engineering, Data Science, Governance, and emerging technologies.
+
+---
+
+# 🔴 Offensive Security, Red Teaming & Security Research
+
+Specialising in adversary simulation, penetration testing, vulnerability assessment, exploit development, web application security, operational security, threat emulation and security research.
+
+---
+
+### Smart Contract Security Auditor (SCSA)
+
+![SCSA](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250819-152917.png)
+
+---
+
+### Red Team Management (RTM)
+
+![RTM](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250725-233925.png)
+
+---
+
+### Advanced Web3 Security
+
+![Web3 Security](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250819-161752.png)
+
+---
+
+### MobileHackingLabs – TokenBleed
+
+![TokenBleed](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250827-082308.png)
+
+---
+
+### Windows Red Team Operator API (WRTO_API)
+
+![WRTO_API](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250506-132543.png)
+
+---
+
+### AV / EDR Evasion
+
+![AV/EDR Evasion](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250625-044035.png)
+
+---
+
+### OPSEC & Anonymity
+
+![OpSec & Anonymity](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250731-230430.png)
+
+---
+
+### Certified Ethical Hacker (C|EH)
+
+![C|EH](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Ethical_Hacking.png)
+
+### Cisco CEH
+
+![Cisco CEH](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250422-224418.png)
+
+---
+
+### Certified Web Application Security Tester (PWST)
+
+![PWST](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Web_Application_Security.png)
+
+---
+
+### PTLabs Recon (Completed entirely using a smartphone)
+
+![PTLabs Recon](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250317-122229.png)
+
+---
+
+### Certified in API Penetration Testing
+
+![API Penetration Testing](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/API_Sec_Penetration_Testing.png)
+
+---
+
+### Certified in API Connected Cars & Fleet Security
+
+![Connected Cars](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/API_Sec_Attached_Cars_and_Fleets.png)
+
+---
+
+### MITRE ATT&CK
+
+![MITRE ATT&CK](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Mitre_Att%26ck.png)
+
+---
+
+### Dark Web Operations
+
+![Dark Web Operations](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Dark_web_operations.png)
+
+---
+
+### eHPT+
+
+![eHPT+](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/134685209.jpg)
+
+---
+
+# 🛡️ Cyber Defence, Security Architecture & Professional Security
+
+Professional qualifications covering enterprise security, governance, defensive operations, application security and information security leadership.
+
+---
+
+### Certified Information Systems Security Professional (CISSP)
+
+![CISSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CISSP.png)
+
+---
+
+### Certified in Cybersecurity (CC)
+
+![CC](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/C%7CC.png)
+
+---
+
+### Cybersecurity Analyst
+
+![Cybersecurity Analyst](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20240814-155824.png)
+
+---
+
+### Certified Sentinel Ninja
+
+![Sentinel Ninja](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250724-100627.png)
+
+---
+
+### Certified in SIEM & Logging
+
+![SIEM & Logging](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Google_SIEM.png)
+
+---
+
+# ☁️ Cloud Security, DevSecOps & Infrastructure
+
+Cloud architecture, secure infrastructure, Kubernetes, DevSecOps and enterprise platform security.
+
+---
+
+### SC-100
+
+![SC-100](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250729-101515.png)
+
+---
+
+### Certified AWS Information Recovery Specialist
+
+![AWS Information Recovery](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/AWS_information_recovery_badge.png)
+
+---
+
+### Certified Azure Network Ninja
+
+![Azure Network Ninja](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Azure_network_DevOps.png)
+
+---
+
+### Certified Google Cloud Platform (GCP) Architect
+
+![GCP Architect](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/GCP_Architect_Badge.png)
+
+### Renewal
+
+![GCP Renewal](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241113-193214.png)
+
+---
+
+### Kubernautes Helmsman
+
+![Kubernautes](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Kubernautes_Badges.png)
+
+### Renewal
+
+![Kubernautes Renewal](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/134722041.jpg)
+
+---
+
+### Fortinet FortiGate 7.4 Operator
+
+---
+
+# 🌐 Networking & Infrastructure
+
+Enterprise networking, routing, switching, infrastructure security and network operations.
+
+---
+
+### Certified Network Security Professional (CNSP)
+
+![CNSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250127-164111.png)
+
+---
+
+### Cisco CCNA
+
+#### Networking Fundamentals
+
+![Fundamentals](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_Fundamentals.png)
+
+#### Introduction to Networks (ITN)
+
+![ITN](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_ITN.png)
+
+#### Switching, Routing & Wireless Essentials (SRWE)
+
+![SRWE](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_SRWE.png)
+
+#### Enterprise Networking, Security & Automation (ENSA)
+
+![ENSA](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CCNA_ENSA.png)
+
+---
+
+# 💻 Programming, Software Engineering & Development
+
+Programming languages, software engineering, automation and modern software development.
+
+---
+
+### C#
+
+![C#](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250729-101543.png)
+
+---
+
+### Advanced C++
+
+![Advanced C++](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Advanced_C%2B%2B.png)
+
+---
+
+### Five Day Coding Challenge
+
+![5DCC](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/5_Day_Coding_Challenge.png)
+
+---
+
+### Advanced Proficiency
+
+Languages and development technologies:
+
+- Go
+- Golang
+- Ruby
+- Serpent
+- MPLS
+- Full Stack Development
+
+---
+
+### Qualified Blockchain Developer
+
+*(Simplilearn)*
+
+---
+
+# 📊 Data Science & Artificial Intelligence
+
+Machine Learning, Artificial Intelligence, Data Science and analytics.
+
+---
+
+### Data Scientist
+
+Languages:
+
+- R
+- Rust
+- C
+- Python
+- SQL
+
+![Data Science in R](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Data%20Science%20in%20R.png)
+
+![Advanced SQL](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Advanced_SQL.png)
+
+---
+
+### Generative AI
+
+![Generative AI](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Google_generative_AI.png)
+
+---
+
+# ⚖️ Governance, Law & Professional Practice
+
+Professional development beyond purely technical disciplines.
+
+---
+
+### Scottish Law
+
+*(Further qualifications currently in progress.)*
+
+![Scottish Law Certificate](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250819-152422.png)
+
+![Scottish Law Badge](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Legal_skills_and_debates_in_Scotland_19_Aug_2025_faabdd8f.png)
+
+---
+
+### Certified Associate in Project Management (CAPM)
+
+*(Simplilearn)*
+
+---
+
+### ISC² Candidate
+
+![ISC² Candidate](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/ISC2_Candidate.png)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
 🎓 Industry Certifications & Professional Qualifications
 
 «This section documents my industry-recognised certifications, professional qualifications, specialist training, and continuous professional development. Qualifications are grouped by technical discipline to provide a clearer overview of my capabilities across Offensive Security, Cyber Defence, Cloud Security, Networking, Software Engineering, Data Science, Governance, and emerging technologies.»
