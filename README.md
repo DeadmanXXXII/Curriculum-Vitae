@@ -164,86 +164,27 @@ Ayr, Scotland, United Kingdom
 <a href="https://blucorbel31.wixsite.com/the-mad-hatters-play">
 <img src="https://img.shields.io/badge/Legacy%20Wix%20Site-Website-purple?style=for-the-badge&logo=wix&logoColor=white" />
 </a>
+# 🤝 Professional Reference
 
+## Wesley Gerrard
 
----
+Professional reference available from:
 
-🌐 Professional Profiles & Contact Information
+<a href="https://fourfourcyber.com">
+<img src="https://img.shields.io/badge/FourFourCyber-Professional%20Reference-blue?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+</a>
 
-📍 Location
-
-Ayr, Scotland, United Kingdom
-
----
-
-📧 Email
-
-- blucorbel29@gmail.com
-
-- aeinsteinapp@gmail.com
-
-- blucorbel35@gmail.com 
-
-- themadhattersplayground@gmail.com 
-
+<a href="https://fourfourcyber.com">
+<img src="https://img.shields.io/badge/Website-fourfourcyber.com-green?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 ---
 
-💼 Professional Profiles
+**Reference Contact**
 
-Platform| Profile
-
-LinkedIn| https://www.linkedin.com/in/blu-corbel-bb5700265
-
-GitHub| https://github.com/DeadmanXXXII
-
-Crowdcruit| https://crowdcruit.com/user/BluCorbel
-
-Microsoft Learn| https://learn.microsoft.com/en-us/users/blucorbel-2425/
-
-Credly| https://www.credly.com/users/blu-corbel.9d1923db
-
-Cyfrin| https://profiles.cyfrin.io/u/deadmanxxxii/achievements/
-
----
-
-📱 Social Media
-
-- CyberShorts 2024
-  https://www.instagram.com/cybershorts2024/
-
-- The Mad Hatter's Playground
-  https://youtube.com/@themadhattersplayground
-
----
-
-🌍 Websites
-
-AEinstein
-
-https://aeinstein.website
-
-The Mad Hatter's Playground (Hopp)
-
-https://www.hopp.bio/the-mad-hatters-playground
-
-The Mad Hatter's Playground (Netlify)
-
-https://the-mad-hatters-playground.netlify.app
-
-Legacy Wix Site
-
-https://blucorbel31.wixsite.com/the-mad-hatters-play
-
----
-
-🤝 Professional Reference
-
-Wesley Gerrard
-
-FourFourCyber
-
-https://fourfourcyber.com
+👤 Wesley Gerrard  
+🏢 FourFourCyber  
+🌐 https://fourfourcyber.com
 
 ---
 
