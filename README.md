@@ -527,112 +527,272 @@ Professional development beyond purely technical disciplines.
 ---
 
 
-## Technical Skills
+# 🛠️ Technical Skills & Engineering Capabilities
 
-- Advanced proficiency in Kali Linux, Parrot OS Security, Windows terminals (PowerShell, Command Prompt, WSL, Ubuntu), and Nethunter for both local and remote work.
-- Extensive experience in SAST, DAST, SCA, container scanning and building tools, particularly VirtualBox and VMWare Workstation Player.
-- Advanced GitHub security expertise.
-- Certified in firewall administration and management.
-- Certified Azure DevOps Pipeline.
-- Advanced skills in full and section audits, demonstrating exceptional attention to detail.
-- Highly skilled with cryptology
+My technical skillset spans offensive security, defensive security, cloud engineering, secure software development, infrastructure security, automation, and security operations.
 
-## Professional Experience
+---
 
-### Purple Team Architect | Contract Remote inside IR35
-**@TheMadHattersPlayground** - Remote  
+## Operating Systems & Security Environments
+
+- Advanced proficiency with:
+  - Kali Linux
+  - Parrot Security OS
+  - Windows Security Environments
+  - PowerShell
+  - Command Prompt
+  - Windows Subsystem for Linux (WSL)
+  - Ubuntu
+  - Kali NetHunter
+
+Experienced deploying and operating security tooling across local, virtualised, mobile and remote environments.
+
+---
+
+## Application Security & Vulnerability Management
+
+- SAST (Static Application Security Testing)
+- DAST (Dynamic Application Security Testing)
+- SCA (Software Composition Analysis)
+- Container Security Scanning
+- Vulnerability Assessment & Management
+- CVSS v3.x Risk Scoring
+- OWASP Top 10 Testing
+- API Security Testing
+- Secure Software Development Lifecycle (SSDLC)
+
+Experienced with vulnerability identification, prioritisation, remediation guidance and security improvement processes.
+
+---
+
+## Infrastructure, Cloud & DevSecOps
+
+- Virtualisation:
+  - VirtualBox
+  - VMware Workstation
+
+- Cloud Security:
+  - AWS Security
+  - Microsoft Azure Security
+  - Google Cloud Platform Security
+
+- DevSecOps:
+  - GitHub Security
+  - Azure DevOps Pipelines
+  - CI/CD Security Integration
+  - Repository Security Controls
+
+---
+
+## Security Engineering & Research
+
+- Firewall Administration and Management
+- Security Architecture Reviews
+- Technical Security Auditing
+- Cryptography Fundamentals
+- Security Automation
+- Security Tool Development
+- Full Environment Audits
+- Section-Based Security Audits
+
+---
+
+# 💼 Professional Experience
+
+## Purple Team Architect | Contract Remote (Inside IR35)
+
+**@TheMadHattersPlayground**  
+Remote
+
 **Duration:** 1 year 6 months
 
-- Led comprehensive infrastructure and application vulnerability assessments, effectively prioritizing and managing identified vulnerabilities.
-- Spearheaded vulnerability remediation efforts, ensuring the swift resolution of security issues.
-- Utilized SAST, DAST, SCA, and container scanning tools for thorough security assessments.
-- Applied advanced GitHub security measures to safeguard code repositories, manage licensing, and authenticate users.
-- Implemented scripting and automation to enhance security processes.
-- Proficiently managed CVSSV3 risk ratings and prioritized risks accordingly.
-- Conducted application scans using industry-standard tools such as Burp Enterprise and Veracode.
-- Executed OWASP Top 10 web application penetration tests.
-- Administered and configured web application firewalls.
-- Collaborated with teams on Azure DevOps Pipeline integration.
-- Progressed from an entry-level VAPT assessor to a leading role.
+---
 
-## Other References
+Responsible for bridging offensive security testing with defensive security improvements through vulnerability discovery, risk assessment, remediation guidance and security architecture improvements.
 
-Available upon request.
+### Key Responsibilities & Achievements
 
-## Availability
+- Led infrastructure and application vulnerability assessments across security environments.
+- Managed vulnerability prioritisation and remediation processes.
+- Applied offensive security methodologies to identify weaknesses within applications and infrastructure.
+- Utilised SAST, DAST, SCA and container security scanning methodologies.
+- Implemented security improvements across GitHub repositories including:
+  - Repository security controls
+  - Licensing management
+  - Authentication security
+  - Secure development practices
 
-Ready to relocate to anywhere.
+- Developed scripts and automation to improve security workflows.
+- Managed CVSS v3.x vulnerability ratings and risk prioritisation.
+- Conducted web application security assessments using industry-standard methodologies.
+- Performed OWASP Top 10 security testing.
+- Conducted application testing using tools including:
+  - Burp Suite Enterprise
+  - Veracode
 
-### Bug bounty programs
+- Assisted with Web Application Firewall configuration and security improvements.
+- Supported Azure DevOps Pipeline security integration.
+- Progressed from entry-level VAPT assessment activities into a Purple Team Architect role combining offensive and defensive security responsibilities.
 
-Meta, Bugcrowd, Integriti, GitHub, Remedy, Zerodium, ZeroDay Community, blockchair, ZBD, HackerOne
+---
 
-### Platform Badges and paths
+# 🏴‍☠️ Security Research & Testing Platforms
 
-- HTB: Starting point path, CREST penetration testing path, started Heist season
-- HTB academy: Loads
-- TryHackMe: SOC analyst path
-- VulnHub: Complete
-- DVWA: Complete
-- Juice shop: Complete
-- crAPI: Complete 
-- vAPI: Complete 
-- Clickjacked: Complete
-- Ransomware Defense: Complete
-- BHIS Red Team boot camp: Complete (ARTO, @CyberBankSA and MACOSX machines)
+## Bug Bounty & Responsible Disclosure Programmes
 
-### Projects
+Participating platforms include:
+
+- Meta
+- Bugcrowd
+- Integriti
+- GitHub
+- Remedy
+- Zerodium
+- ZeroDay Community
+- Blockchair
+- ZBD
+- HackerOne
+
+---
+
+# 🧪 Practical Security Labs & Training Platforms
+
+Hands-on security training completed through:
+
+## Hack The Box
+
+- Starting Point Path
+- CREST Penetration Testing Path
+- Heist Season (Started)
+
+## Hack The Box Academy
+
+- Multiple security learning paths completed
+
+## TryHackMe
+
+- SOC Analyst Path
+
+## Vulnerable Applications & Security Labs
+
+Completed:
+
+- VulnHub
+- DVWA
+- OWASP Juice Shop
+- crAPI
+- vAPI
+- Clickjacked
+- Ransomware Defence
+
+## Black Hills Information Security (BHIS)
+
+Completed:
+
+- Red Team Boot Camp
+- ARTO
+- CyberBankSA Machine
+- macOS X Machine
+
+---
+
+# 🚀 Projects & Open Source Development
+
+## Security & Technology Projects
 
 - #H4ck3d1t./exe
-- @TheMadHattersPlayground.com
+- TheMadHattersPlayground.com
 - CyberShorts2024
 - DeadmanXXXII
 
-# Seminars
+Projects include security research, software development, automation, cybersecurity education and technical experimentation.
+
+---
+
+# 🎤 Conferences, Seminars & Community Engagement
+
+Participated in security conferences, technical events and industry seminars including:
 
 - Unplugged
 - CWL
 - Apollo HQ
-- Defcon
-- BlackHat
+- DEF CON
+- Black Hat
 - CALTECH
-- APIsecU
-- UK cyber convention
-- Apollo R & D
-- Apollo Business continuity
-
-
+- APIsec University
+- UK Cyber Convention
+- Apollo R&D
+- Apollo Business Continuity
 
 ---
 
+# 🌍 Additional Achievements & Professional Background
 
-# Miscellaneous
+Outside of cybersecurity, I have developed experience across multiple industries demonstrating adaptability, discipline and continuous professional development.
 
-For a very brief period I was a professional fighter at Venum and took part in super showdown 2022 in Brighton.
+---
 
-- Exotic, pole dance and stripper trained
-![Stripper](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241118-053144.png)
+## Public Speaking & Knowledge Sharing
 
-Prior to all this I worked in Kitchens and Building sites:
+### UK OSINT Event – Glasgow
 
-I'm also a qualified excavator operator with lifting ops CPCS, dump truck certified CPCS, a qualified scaffolder cisrs and part 1s, brickie Advanced bricklayer with whaleboning and a foundation architect.
+Delivered a demonstration focused on:
 
-Prior to that I was a Michelin star chef.
+**"The power of a smartphone in OSINT investigations."**
 
-Other notable achievements:
+![UK OSINT Presentation](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/signal-2024-10-07-20-55-38-971.png)
 
-I spoke at the UK OSINT event in Glasgow on the 6th of November. The demonstration I gave went really well. It was about the power of a smartphone in OSINT.
+---
 
-![UK OSINT](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/signal-2024-10-07-20-55-38-971.png)
+# 📚 Publications
 
+Author of cybersecurity educational material available through online publishing platforms.
 
-My e-book on sale on KDP, Google bookstore and Lulu:
+---
 
-[An Introduction to Cybersecurity](https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-cybersecurity/ebook/product-m2q8795.html?page=1&pageSize=4)
+## An Introduction to Cybersecurity
 
+Available through Lulu, KDP and Google Books.
 
-![Book cover](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover.jpg)
+https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-cybersecurity/ebook/product-m2q8795.html
 
-[An Introduction to Enumeration and OSINT](https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-osint-and-enumeration/ebook/product-57ez78j.html?q=An+introduction+to+Enumeration+&page=1&pageSize=4)
+![Cybersecurity Book Cover](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover.jpg)
 
-![Book cover 2](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover2.jpg)
+---
+
+## An Introduction to Enumeration and OSINT
+
+Available through Lulu.
+
+https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-osint-and-enumeration/ebook/product-57ez78j.html
+
+![Enumeration and OSINT Book Cover](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover2.jpg)
+
+---
+
+# 🏗️ Previous Professional Experience
+
+Before transitioning into cybersecurity, I developed practical experience across engineering, construction and hospitality environments.
+
+Qualifications and experience include:
+
+- Excavator Operator (CPCS)
+- Lifting Operations (CPCS)
+- Dump Truck Certification (CPCS)
+- CISRS Scaffolding Qualifications
+- Advanced Bricklaying
+- Construction Foundation Work
+- Michelin Star Chef Experience
+
+---
+
+# 🥋 Additional Personal Achievements
+
+- Professional fighter experience with Venum
+- Competed in Super Showdown 2022, Brighton
+
+---
+
+![Additional Achievement](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241118-053144.png)
+
+---
