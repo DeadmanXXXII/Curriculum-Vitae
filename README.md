@@ -154,37 +154,6 @@ https://fourfourcyber.com
 «This repository is organised into specialist domains including Offensive Security, Cyber Defence, Cloud & DevSecOps, Networking, Programming, Data Science, Governance, Technical Research, Open Source Projects, Industry Certifications, and Professional Achievements to make navigating my experience as straightforward as possible.»
 
 
-**Microsoft Learn:** 
-[Microsoft badges](https://learn.microsoft.com/en-us/users/blucorbel-2425/)
-
-
-**Credly:**  [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
-
-
-**Cyfrin:** 
-[Cyfrin](https://profiles.cyfrin.io/u/deadmanxxxii/achievements/)  
-
-
-**Websites:** 
-
-##### My apps
-[AEinstein](https://aeinstein.website)
-
-[TheMadHattersPlayground](https://www.hopp.bio/the-mad-hatters-playground) (Hopp)
-
-##### Wix
-[The Mad Hatter’s Playground](https://blucorbel31.wixsite.com/the-mad-hatters-play)  
-
-##### Independent 
-
-[The Mad Hatter’s Playground 🚧🏗️](https://the-mad-hatters-playground.netlify.app) (Netlify)
-
-
-
-**Professional Reference:**  
-Wesley Gerrard - [FourFourCyber](https://fourfourcyber.com)
-
-
 **Bug bounty Validations:**
 
 ##### **Cyfrin CodeHawks**
@@ -444,44 +413,3 @@ My e-book on sale on KDP, Google bookstore and Lulu:
 [An Introduction to Enumeration and OSINT](https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-osint-and-enumeration/ebook/product-57ez78j.html?q=An+introduction+to+Enumeration+&page=1&pageSize=4)
 
 ![Book cover 2](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover2.jpg)
-
-Depending on position you are checking me out for.
-Those logos are live btw.
-
-Red Team: Penetration testing, Vulnerability-Management.
-The Red One:
-
-
-
-Blue Team: Network/Solutions Architect, Software Management.
-The Blue One:
-
-
-
-Yellow Team: Cloud Architecture/DevSecOps, Information security, Software engineer.
-The Yellow One:
-
-
-
-**Address:** Ayr, Scotland, UK  
-**Email:** 
-themadhattersplayground@gmail.com  
-blucorbel29@gmail.com
-aeinsteinapp@gmail.com
-
-**LinkedIn:** 
-[Blu Corbel](https://www.linkedin.com/in/blu-corbel-bb5700265)  
-
-**GitHub:** 
-[DeadmanXXXII](https://github.com/DeadmanXXXII)
-
-**Crowdcruit:** 
-[DeadmanXXXII](https://crowdcruit.com/user/BluCorbel)
-
-**Instagram:** 
-[CyberShorts 2024](https://www.instagram.com/cybershorts2024/)
-
-**YouTube:** 
-[TheMadHattersPlayground](https://youtube.com/@themadhattersplayground?si=uoDN0NzLVAKuNV8e)
-
-
