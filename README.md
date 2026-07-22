@@ -79,6 +79,95 @@ Rather than simply listing qualifications, this repository provides evidence of 
 
 ---
 
+# 🌐 Professional Profiles & Contact Information
+
+📍 **Location**
+
+Ayr, Scotland, United Kingdom
+
+---
+
+## 📧 Contact
+
+<a href="mailto:blucorbel29@gmail.com">
+<img src="https://img.shields.io/badge/Email-blucorbel29%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="mailto:aeinsteinapp@gmail.com">
+<img src="https://img.shields.io/badge/Email-aeinsteinapp%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="mailto:blucorbel35@gmail.com">
+<img src="https://img.shields.io/badge/Email-blucorbel35%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="mailto:themadhattersplayground@gmail.com">
+<img src="https://img.shields.io/badge/Email-TheMadHattersPlayground-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+---
+
+# 💼 Professional Profiles
+
+<a href="https://www.linkedin.com/in/blu-corbel-bb5700265">
+<img src="https://img.shields.io/badge/LinkedIn-Blu%20Corbel-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/DeadmanXXXII">
+<img src="https://img.shields.io/badge/GitHub-DeadmanXXXII-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://crowdcruit.com/user/BluCorbel">
+<img src="https://img.shields.io/badge/Crowdcruit-Blu%20Corbel-purple?style=for-the-badge&logo=people&logoColor=white" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/users/blucorbel-2425/">
+<img src="https://img.shields.io/badge/Microsoft%20Learn-Badges-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/users/blu-corbel.9d1923db">
+<img src="https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+
+<a href="https://profiles.cyfrin.io/u/deadmanxxxii/achievements/">
+<img src="https://img.shields.io/badge/Cyfrin-Achievements-black?style=for-the-badge&logo=ethereum&logoColor=white" />
+</a>
+
+---
+
+# 📱 Social Media
+
+<a href="https://www.instagram.com/cybershorts2024/">
+<img src="https://img.shields.io/badge/Instagram-CyberShorts%202024-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://youtube.com/@themadhattersplayground">
+<img src="https://img.shields.io/badge/YouTube-The%20Mad%20Hatter's%20Playground-red?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+---
+
+# 🌍 Websites
+
+<a href="https://aeinstein.website">
+<img src="https://img.shields.io/badge/AEinstein-Website-green?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://www.hopp.bio/the-mad-hatters-playground">
+<img src="https://img.shields.io/badge/The%20Mad%20Hatter's%20Playground-Hopp-purple?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
+
+<a href="https://the-mad-hatters-playground.netlify.app">
+<img src="https://img.shields.io/badge/The%20Mad%20Hatter's%20Playground-Netlify-blue?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
+<a href="https://blucorbel31.wixsite.com/the-mad-hatters-play">
+<img src="https://img.shields.io/badge/Legacy%20Wix%20Site-Website-purple?style=for-the-badge&logo=wix&logoColor=white" />
+</a>
+
+
+---
+
 🌐 Professional Profiles & Contact Information
 
 📍 Location
