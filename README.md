@@ -1,45 +1,155 @@
 # Blu Corbel 
 ## Curriculum Vitae
 
-Depending on position you are checking me out for.
-Those logos are live btw.
+Blu Corbel
 
-Red Team: Penetration testing, Vulnerability-Management.
-The Red One:
+Curriculum Vitae & Professional Cybersecurity Portfolio
 
-[![Get my CV](https://img.shields.io/badge/Get%20my-CV-red.svg)](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheOne.pdf)
+«A comprehensive record of my professional experience, certifications, security research, validated vulnerability disclosures, technical achievements, open-source contributions, and continuous learning throughout my cybersecurity career.»
 
-Blue Team: Network/Solutions Architect, Software Management.
-The Blue One:
+---
 
-[![Get my CV](https://img.shields.io/badge/Get%20my-CV-blue.svg)](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheBlueOne.pdf)
+📥 Quick Curriculum Vitae Downloads
 
-Yellow Team: Cloud Architecture/DevSecOps, Information security, Software engineer.
-The Yellow One:
+Whether you're recruiting for a specialist technical role or a leadership position, you can download the CV most relevant to your requirements.
 
-[![Get my CV](https://img.shields.io/badge/Get%20my-CV-yellow.svg)](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheYellowOne.pdf)
+🔴 Offensive Security | Red Team | Penetration Testing | Vulnerability Management
 
+Designed for positions including:
 
-**Address:** Ayr, Scotland, UK  
-**Email:** 
-themadhattersplayground@gmail.com  
-blucorbel29@gmail.com
-aeinsteinapp@gmail.com
+- Red Team Operator
+- Penetration Tester
+- Application Security Engineer
+- Offensive Security Consultant
+- Vulnerability Management Lead
+- Security Researcher
 
-**LinkedIn:** 
-[Blu Corbel](https://www.linkedin.com/in/blu-corbel-bb5700265)  
+""Get my CV" (https://img.shields.io/badge/Get%20my-CV-red.svg)" (https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheOne.pdf)
 
-**GitHub:** 
-[DeadmanXXXII](https://github.com/DeadmanXXXII)
+---
 
-**Crowdcruit:** 
-[DeadmanXXXII](https://crowdcruit.com/user/BluCorbel)
+🔵 Cyber Defence | Architecture | Blue Team | Infrastructure
 
-**Instagram:** 
-[CyberShorts 2024](https://www.instagram.com/cybershorts2024/)
+Designed for positions including:
 
-**YouTube:** 
-[TheMadHattersPlayground](https://youtube.com/@themadhattersplayground?si=uoDN0NzLVAKuNV8e)
+- Network Architect
+- Security Architect
+- Infrastructure Architect
+- Solutions Architect
+- Security Operations
+- Technical Lead
+
+""Get my CV" (https://img.shields.io/badge/Get%20my-CV-blue.svg)" (https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheBlueOne.pdf)
+
+---
+
+🟡 Cloud Security | DevSecOps | Software Engineering | Information Security
+
+Designed for positions including:
+
+- Cloud Security Engineer
+- Cloud Architect
+- DevSecOps Engineer
+- Software Engineer
+- Information Security Consultant
+- Platform Security Engineer
+
+""Get my CV" (https://img.shields.io/badge/Get%20my-CV-yellow.svg)" (https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/TheYellowOne.pdf)
+
+---
+
+👋 About Me
+
+I am a cybersecurity professional with experience spanning offensive security, defensive security, cloud security, DevSecOps, application security, networking, software engineering, data science, and technical leadership.
+
+This repository serves as a living technical curriculum vitae, documenting my continual professional development through:
+
+- Industry-recognised certifications
+- Practical security research
+- Responsible vulnerability disclosure
+- Bug bounty achievements
+- Open-source development
+- Security tooling
+- Cloud engineering
+- Programming
+- Conference attendance
+- Public speaking
+- Professional publications
+
+Rather than simply listing qualifications, this repository provides evidence of my technical progression and the practical application of my skills throughout my cybersecurity journey.
+
+---
+
+🌐 Professional Profiles & Contact Information
+
+📍 Location
+
+Ayr, Scotland, United Kingdom
+
+---
+
+📧 Email
+
+- themadhattersplayground@gmail.com
+- blucorbel29@gmail.com
+- aeinsteinapp@gmail.com
+
+---
+
+💼 Professional Profiles
+
+Platform| Profile
+LinkedIn| https://www.linkedin.com/in/blu-corbel-bb5700265
+GitHub| https://github.com/DeadmanXXXII
+Crowdcruit| https://crowdcruit.com/user/BluCorbel
+Microsoft Learn| https://learn.microsoft.com/en-us/users/blucorbel-2425/
+Credly| https://www.credly.com/users/blu-corbel.9d1923db
+Cyfrin| https://profiles.cyfrin.io/u/deadmanxxxii/achievements/
+
+---
+
+📱 Social Media
+
+- CyberShorts 2024
+  https://www.instagram.com/cybershorts2024/
+
+- The Mad Hatter's Playground
+  https://youtube.com/@themadhattersplayground
+
+---
+
+🌍 Websites
+
+AEinstein
+
+https://aeinstein.website
+
+The Mad Hatter's Playground (Hopp)
+
+https://www.hopp.bio/the-mad-hatters-playground
+
+The Mad Hatter's Playground (Netlify)
+
+https://the-mad-hatters-playground.netlify.app
+
+Legacy Wix Site
+
+https://blucorbel31.wixsite.com/the-mad-hatters-play
+
+---
+
+🤝 Professional Reference
+
+Wesley Gerrard
+
+FourFourCyber
+
+https://fourfourcyber.com
+
+---
+
+«This repository is organised into specialist domains including Offensive Security, Cyber Defence, Cloud & DevSecOps, Networking, Programming, Data Science, Governance, Technical Research, Open Source Projects, Industry Certifications, and Professional Achievements to make navigating my experience as straightforward as possible.»
+
 
 **Microsoft Learn:** 
 [Microsoft badges](https://learn.microsoft.com/en-us/users/blucorbel-2425/)
