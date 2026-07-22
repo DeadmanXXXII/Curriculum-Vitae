@@ -196,21 +196,6 @@ The findings below represent validated vulnerabilities and recognised security c
 
 These acknowledgements complement my formal qualifications by providing independently validated evidence of technical capability.
 
-Cyfrin CodeHawks
-
-"Cyfrin CodeHawks" (https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250826-193744.png)
-
-Google
-
-"Google" (https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20241008-165538.png)
-
-Hackrate
-
-"Hackrate" (https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250619-180033.png)
-
----
-
-🎓 Industry Certifications & Professional Qualifications
 
 **Bug bounty Validations:**
 
@@ -223,19 +208,10 @@ Hackrate
 ##### **Hackrate**
 ![Hkrt](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250619-180033.png)
 
+---
 
-## Objective and Personal Statement
 
-A dynamic and certified Information, Network, and Cyber Security Lead or Team member with extensive experience in Offensive Security roles. 
-
-Skilled in infrastructure and application vulnerability assessments, vulnerability remediation, and advanced proficiency in a variety of security tools and methodologies.
-
-Adept at leading offshore teams with exceptional communication abilities and a passion for delivering superior security solutions. 
-
-Eager to secure a more challenging role in an Architecture/Operations Matrix.
-
- 
-## Key Qualifications:
+## 🎓 Industry Certifications & Professional Qualifications
 
 - Smart Contract Security Auditor (SCSA)
  ![SCSA](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250819-152917.png)
