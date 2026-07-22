@@ -236,10 +236,6 @@ These acknowledgements complement my formal qualifications by providing independ
 ##### **Hackrate**
 ![Hkrt](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Screenshot_20250619-180033.png)
 
----
-
-
-## 🎓 Industry Certifications & Professional Qualifications
 
 ## 🎓 Industry Certifications & Professional Qualifications
 
