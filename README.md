@@ -96,11 +96,17 @@ Ayr, Scotland, United Kingdom
 💼 Professional Profiles
 
 Platform| Profile
+
 LinkedIn| https://www.linkedin.com/in/blu-corbel-bb5700265
+
 GitHub| https://github.com/DeadmanXXXII
+
 Crowdcruit| https://crowdcruit.com/user/BluCorbel
+
 Microsoft Learn| https://learn.microsoft.com/en-us/users/blucorbel-2425/
+
 Credly| https://www.credly.com/users/blu-corbel.9d1923db
+
 Cyfrin| https://profiles.cyfrin.io/u/deadmanxxxii/achievements/
 
 ---
