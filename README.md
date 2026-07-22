@@ -793,13 +793,11 @@ Available through:
 
 ---
 
----
-
 ## 📖 An Introduction to Enumeration and OSINT
 
-A practical guide covering Open Source Intelligence (OSINT), reconnaissance techniques, information gathering methodologies, enumeration processes, digital footprint analysis and the foundations of ethical security research. 0
+A practical guide covering Open Source Intelligence (OSINT), reconnaissance techniques, information gathering methodologies, enumeration processes, digital footprint analysis and the foundations of ethical security research.
 
-Designed for cybersecurity learners, security researchers and anyone developing practical skills in intelligence gathering and reconnaissance workflows. 1
+Designed for cybersecurity learners, security researchers and anyone developing practical skills in intelligence gathering and reconnaissance workflows.
 
 Available through:
 
