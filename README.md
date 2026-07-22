@@ -164,7 +164,6 @@ Ayr, Scotland, United Kingdom
 <a href="https://blucorbel31.wixsite.com/the-mad-hatters-play">
 <img src="https://img.shields.io/badge/Legacy%20Wix%20Site-Website-purple?style=for-the-badge&logo=wix&logoColor=white" />
 </a>
-# 🤝 Professional Reference
 
 ## Wesley Gerrard
 
@@ -177,14 +176,6 @@ Professional reference available from:
 <a href="https://fourfourcyber.com">
 <img src="https://img.shields.io/badge/Website-fourfourcyber.com-green?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
----
-
-**Reference Contact**
-
-👤 Wesley Gerrard  
-🏢 FourFourCyber  
-🌐 https://fourfourcyber.com
 
 ---
 
