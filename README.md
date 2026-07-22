@@ -770,25 +770,50 @@ Delivered a demonstration focused on:
 
 Author of cybersecurity educational material available through online publishing platforms.
 
+
+## 📖 An Introduction to Cybersecurity
+
+A practical cybersecurity guide covering foundational security concepts, bug bounty methodology, cloud security, network defence, virtual lab environments, vulnerability research and secure infrastructure design. 
+
+Available through:
+
+<a href="https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-cybersecurity/ebook/product-m2q8795.html">
+<img src="https://img.shields.io/badge/Lulu-Read%20Publication-orange?style=for-the-badge&logo=bookstack&logoColor=white" />
+</a>
+
+<a href="https://www.amazon.com/s?k=An+Introduction+to+Cybersecurity+Deadman+XXXII">
+<img src="https://img.shields.io/badge/Amazon%20KDP-Available-yellow?style=for-the-badge&logo=amazon&logoColor=black" />
+</a>
+
+<a href="https://books.google.com/">
+<img src="https://img.shields.io/badge/Google%20Books-Available-blue?style=for-the-badge&logo=googlebooks&logoColor=white" />
+</a>
+
+![introtocyber](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover.jpg)
+
 ---
 
-## An Introduction to Cybersecurity
-
-Available through Lulu, KDP and Google Books.
-
-https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-cybersecurity/ebook/product-m2q8795.html
-
-![Cybersecurity Book Cover](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover.jpg)
-
 ---
 
-## An Introduction to Enumeration and OSINT
+## 📖 An Introduction to Enumeration and OSINT
 
-Available through Lulu.
+A practical guide covering Open Source Intelligence (OSINT), reconnaissance techniques, information gathering methodologies, enumeration processes, digital footprint analysis and the foundations of ethical security research. 0
 
-https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-osint-and-enumeration/ebook/product-57ez78j.html
+Designed for cybersecurity learners, security researchers and anyone developing practical skills in intelligence gathering and reconnaissance workflows. 1
 
-![Enumeration and OSINT Book Cover](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover2.jpg)
+Available through:
+
+<a href="https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-osint-and-enumeration/ebook/product-57ez78j.html">
+<img src="https://img.shields.io/badge/Lulu-Read%20Publication-orange?style=for-the-badge&logo=bookstack&logoColor=white" />
+</a>
+
+<a href="https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-osint-and-enumeration/ebook/product-57ez78j.html">
+<img src="https://img.shields.io/badge/Ebook-Available-blue?style=for-the-badge&logo=book&logoColor=white" />
+</a>
+
+![An Introduction to Enumeration and OSINT Book Cover](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover2.jpg)
+
+---
 
 ---
 
